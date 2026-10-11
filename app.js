@@ -15,17 +15,17 @@ const escape=value=>String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;'
 const today=()=>new Intl.DateTimeFormat('sv-SE',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 let selection=new Set(), preferredK=15, custom=[], session=null, history=[], owner='', completedAt='';
 let view='setup', search='', year='', tab='all', draft=[], draftKey='', shared=null, storageOK=true;
-let includeRemixes=false, includeLanguages=false;
+let includeRemixes=false, includeLanguages=false, includeSolo=false;
 let toastTimer;
 const rankingJackets=createJacketCache();
 
 function allSongs(){return [...SONGS,...custom];}
-function availableSongs(){return filterCatalog(allSongs(),{includeRemixes,includeLanguages});}
+function availableSongs(){return filterCatalog(allSongs(),{includeRemixes,includeLanguages,includeSolo});}
 function pruneSelection(){const allowed=new Set(availableSongs().map(s=>s.id));selection=new Set([...selection].filter(id=>allowed.has(id)));}
 function variantControls(){
   const kinds=new Set(SONGS.map(variantKind));
-  if(!kinds.has('remix')&&!kinds.has('language'))return '';
-  return `<div class="variant-filters" role="group" aria-label="別バージョンの表示">${kinds.has('language')?`<label><input id="include-languages" type="checkbox" ${includeLanguages?'checked':''}>多言語版を含める</label>`:''}${kinds.has('remix')?`<label><input id="include-remixes" type="checkbox" ${includeRemixes?'checked':''}>リミックスを含める</label>`:''}</div>`;
+  if(!kinds.has('remix')&&!kinds.has('language')&&!SONGS.some(s=>s.solo))return '';
+  return `<div class="variant-filters" role="group" aria-label="楽曲の表示設定">${SONGS.some(s=>s.solo)?`<label><input id="include-solo" type="checkbox" ${includeSolo?'checked':''}>個人ソロ曲を含める</label>`:''}${kinds.has('language')?`<label><input id="include-languages" type="checkbox" ${includeLanguages?'checked':''}>多言語版を含める</label>`:''}${kinds.has('remix')?`<label><input id="include-remixes" type="checkbox" ${includeRemixes?'checked':''}>リミックスを含める</label>`:''}</div>`;
 }
 function song(id){return allSongs().find(s=>s.id===id)||{id,title:'不明な曲',release:'',date:''};}
 function toast(message){const el=document.querySelector('#toast');el.textContent=message;el.classList.add('visible');clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.classList.remove('visible'),3500);}
@@ -36,6 +36,7 @@ function load(){
     custom=Array.isArray(data.custom)?data.custom.filter(s=>typeof s.id==='string'&&s.id.startsWith('custom-')&&typeof s.title==='string'&&s.title.length<=180).slice(0,200):[];
     includeRemixes=data.includeRemixes===true;
     includeLanguages=data.includeLanguages===true;
+    includeSolo=data.includeSolo===true;
     const known=new Set(allSongs().map(s=>s.id));
     selection=new Set(Array.isArray(data.selection)?data.selection.filter(id=>known.has(id)):[]);
     pruneSelection();
@@ -51,7 +52,7 @@ function load(){
   } catch {session=null;history=[];}
 }
 function persist(){
-  try {localStorage.setItem(STORAGE,JSON.stringify({version:1,selection:[...selection],includeRemixes,includeLanguages,preferredK,custom,session,history,owner,completedAt}));storageOK=true;}
+  try {localStorage.setItem(STORAGE,JSON.stringify({version:1,selection:[...selection],includeRemixes,includeLanguages,includeSolo,preferredK,custom,session,history,owner,completedAt}));storageOK=true;}
   catch {storageOK=false;toast('このブラウザでは途中保存ができません。ページを閉じる前にソートを完了してください。');}
 }
 function decodeResult(){
@@ -75,19 +76,19 @@ function videoButton(s){
   const query=encodeURIComponent(`${s.title} アンスリューム`);
   return `<a class="video-link" href="https://www.youtube.com/results?search_query=${query}" target="_blank" rel="noopener noreferrer" aria-label="${escape(s.title)} アンスリュームをYouTubeで検索">YouTubeで検索 ↗</a>`;
 }
-function tile(s){return `<div class="song-item ${selection.has(s.id)?'selected':''}"><label class="song-tile ${selection.has(s.id)?'selected':''}"><input type="checkbox" data-song="${escape(s.id)}" ${selection.has(s.id)?'checked':''} aria-label="${escape(s.title)}">${jacket(s)}<span class="song-info"><span class="song-title">${escape(s.title)}</span><span class="song-meta">${s.custom?'追加した曲':`${s.dateKind==='unknown'?'公開年未確認':s.date.slice(0,4)} · ${escape(s.release)}${s.date>today()?' · 発売予定':''}`}</span></span></label>${videoButton(s)}</div>`;}
+function tile(s){return `<div class="song-item ${selection.has(s.id)?'selected':''}"><label class="song-tile ${selection.has(s.id)?'selected':''}"><input type="checkbox" data-song="${escape(s.id)}" ${selection.has(s.id)?'checked':''} aria-label="${escape(s.title)}">${jacket(s)}<span class="song-info"><span class="song-title">${escape(s.title)}</span><span class="song-meta">${s.custom?'追加した曲':`${s.dateKind==='unknown'?'公開年未確認':s.date.slice(0,4)} · ${escape(s.release)}${s.soloArtist&&!s.release.includes(s.soloArtist)?` · ${escape(s.soloArtist)} ソロ`:''}${s.date>today()?' · 発売予定':''}`}</span></span></label>${videoButton(s)}</div>`;}
 function selectedLimit(){return Math.min(preferredK,selection.size);}
 function setupHTML(){
   const available=availableSongs().length;
   return `${session?`<div class="resume-banner"><div><strong>${activeNode(session)?'前回のソートが保存されています':'前回のランキングが保存されています'}</strong><p>${session.total}曲から 上位${session.limit}曲 ／ ${session.decisions}回の選択</p></div><button class="secondary" data-action="resume">${activeNode(session)?'続きから再開 ↗':'結果を見る ↗'}</button></div>`:''}
   
-  <div class="setup-layout"><section aria-labelledby="select-heading"><div class="section-heading"><h2 id="select-heading">ランキングに入れたい曲を選ぶ</h2></div><div class="search-row"><div class="search-wrap"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6" aria-hidden="true"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 6 6"/></svg><input id="search" type="search" placeholder="曲名で検索" aria-label="曲名で検索" value="${escape(search)}"></div><select id="year" aria-label="公開年で絞り込み"><option value="">すべての年代</option>${[...new Set(SONGS.map(s=>s.date.slice(0,4)).filter(Boolean))].sort().reverse().map(y=>`<option ${year===y?'selected':''}>${y}</option>`).join('')}</select></div>${variantControls()}<div class="catalog-toolbar"><div class="tabs" role="group" aria-label="曲リストの表示"><button class="tab ${tab==='all'?'active':''}" data-tab="all" aria-pressed="${tab==='all'}">すべて <span id="available-count">${available}</span></button><button class="tab ${tab==='selected'?'active':''}" data-tab="selected" aria-pressed="${tab==='selected'}">選択中 <span id="tab-count">${selection.size}</span></button></div><div class="catalog-actions"><button class="text-button" data-action="select-visible">表示中をすべて選択</button><button class="text-button" data-action="clear">選択解除</button></div></div><div id="song-grid" class="song-grid" role="group" aria-label="ランキング対象の曲"></div><p class="catalog-note">SE・個人ソロ・カラオケは除外し、再録・短縮版は原曲にまとめています。${variantNote}</p><details class="custom-songs"><summary>見つからない曲を追加する ＋</summary><form id="custom-form" class="custom-entry"><input id="custom-title" maxlength="180" placeholder="追加したい曲名" aria-label="追加したい曲名" required><button type="submit">追加 ＋</button></form><p class="catalog-note">追加した曲はこのブラウザに保存され、ランキング画像・共有リンクにも表示されます。</p></details></section>
+  <div class="setup-layout"><section aria-labelledby="select-heading"><div class="section-heading"><h2 id="select-heading">ランキングに入れたい曲を選ぶ</h2></div><div class="search-row"><div class="search-wrap"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.6" aria-hidden="true"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 6 6"/></svg><input id="search" type="search" placeholder="曲名で検索" aria-label="曲名で検索" value="${escape(search)}"></div><select id="year" aria-label="公開年で絞り込み"><option value="">すべての年代</option>${[...new Set(SONGS.map(s=>s.date.slice(0,4)).filter(Boolean))].sort().reverse().map(y=>`<option ${year===y?'selected':''}>${y}</option>`).join('')}</select></div>${variantControls()}<div class="catalog-toolbar"><div class="tabs" role="group" aria-label="曲リストの表示"><button class="tab ${tab==='all'?'active':''}" data-tab="all" aria-pressed="${tab==='all'}">すべて <span id="available-count">${available}</span></button><button class="tab ${tab==='selected'?'active':''}" data-tab="selected" aria-pressed="${tab==='selected'}">選択中 <span id="tab-count">${selection.size}</span></button></div><div class="catalog-actions"><button class="text-button" data-action="select-visible">表示中をすべて選択</button><button class="text-button" data-action="clear">選択解除</button></div></div><div id="song-grid" class="song-grid" role="group" aria-label="ランキング対象の曲"></div><p class="catalog-note">個人ソロ曲はチェックボックスで表示できます。SE・カラオケは除外し、再録・短縮版は原曲にまとめています。${variantNote}</p><details class="custom-songs"><summary>見つからない曲を追加する ＋</summary><form id="custom-form" class="custom-entry"><input id="custom-title" maxlength="180" placeholder="追加したい曲名" aria-label="追加したい曲名" required><button type="submit">追加 ＋</button></form><p class="catalog-note">追加した曲はこのブラウザに保存され、ランキング画像・共有リンクにも表示されます。</p></details></section>
   <aside><div class="settings" id="sort-settings"><h2>ランキング設定</h2><div class="selected-count"><strong id="selection-count">${String(selection.size)}</strong><span>曲 / <span id="selection-total">${available}</span></span></div><p class="selection-label">選んだ曲だけでランキングを作ります</p><div class="settings-divider"></div><label class="settings-label" for="rank-limit">何位まで作るか</label><div class="rank-number"><input id="rank-limit" type="number" min="1" max="${Math.max(selection.size,1)}" value="${selection.size?selectedLimit():preferredK}" inputmode="numeric"><span>位まで</span></div><div class="presets"><button class="preset" data-limit="15">上位15曲</button><button class="preset" data-limit="25">上位25曲</button><button class="preset" data-limit="all">全曲</button></div><p class="small-note" id="limit-note">${selection.size?`${selection.size}曲の中から、上位${selectedLimit()}曲を決めます。`:'ランキング対象の曲を選んでください。'}</p><button class="primary start-button" data-action="start" ${!selection.size?'disabled':''}>ソートを始める</button><p class="small-note center">途中で閉じても、続きから再開できます。</p></div></aside></div><div class="mobile-start"><div><p id="mobile-selection">選択中 ${selection.size}曲 / 上位${selectedLimit()}曲</p><button class="text-button" data-action="settings">ランキング設定</button></div><button class="primary" data-action="start" ${!selection.size?'disabled':''}>ソートを始める</button></div>`;
 }
 function updateCatalog(){
   const grid=document.querySelector('#song-grid');
   if (!grid) return;
-  for(const [id,checked] of [['include-remixes',includeRemixes],['include-languages',includeLanguages]]){const control=document.getElementById(id);if(control)control.checked=checked;}
+  for(const [id,checked] of [['include-remixes',includeRemixes],['include-languages',includeLanguages],['include-solo',includeSolo]]){const control=document.getElementById(id);if(control)control.checked=checked;}
   const scroll=grid.scrollTop;
   const visible=visibleSongs();
   grid.innerHTML=visible.length?visible.map(tile).join(''):'<p class="empty">該当する曲がありません。<br>検索条件を変えるか、曲を追加してください。</p>';
@@ -238,8 +239,8 @@ app.addEventListener('change',event=>{
   const target=event.target;
   if(target.dataset.song){if(target.checked)selection.add(target.dataset.song);else selection.delete(target.dataset.song);persist();updateCatalog();}
   if(target.id==='year'){year=target.value;updateCatalog();}
-  if(target.id==='include-remixes'||target.id==='include-languages'){
-    if(target.id==='include-remixes')includeRemixes=target.checked;else includeLanguages=target.checked;
+  if(target.id==='include-remixes'||target.id==='include-languages'||target.id==='include-solo'){
+    if(target.id==='include-remixes')includeRemixes=target.checked;else if(target.id==='include-languages')includeLanguages=target.checked;else includeSolo=target.checked;
     pruneSelection();persist();updateCatalog();
   }
   if(target.id==='rank-limit'){const number=Number(target.value);preferredK=Number.isInteger(number)&&number>0?Math.min(number,Math.max(selection.size,1)):Math.max(1,selectedLimit());persist();updateCatalog();}
@@ -249,7 +250,7 @@ app.addEventListener('submit',event=>{
   event.preventDefault();const input=document.querySelector('#custom-title'),title=input.value.trim().normalize('NFC');
   if(!title) return;
   const existing=allSongs().find(s=>s.title.normalize('NFKC').toLowerCase()===title.normalize('NFKC').toLowerCase());
-  if(existing){const kind=variantKind(existing);if(kind==='remix')includeRemixes=true;if(kind==='language')includeLanguages=true;selection.add(existing.id);toast('同じ曲があるので、その曲を選択しました。');}
+  if(existing){if(existing.solo)includeSolo=true;const kind=variantKind(existing);if(kind==='remix')includeRemixes=true;if(kind==='language')includeLanguages=true;selection.add(existing.id);toast('同じ曲があるので、その曲を選択しました。');}
   else if(custom.length>=200){toast('追加できる曲は200曲までです。');return;}
   else {const s={id:`custom-${crypto.randomUUID()}`,title,release:'追加した曲',date:today(),custom:true};custom.push(s);selection.add(s.id);toast('曲を追加して選択しました。');}
   input.value='';persist();updateCatalog();

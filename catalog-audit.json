@@ -599,29 +599,29 @@
       "raw": "しゃぼん玉",
       "title": "しゃぼん玉",
       "source": "https://linkco.re/nUq2nUHy?lang=ja",
-      "status": "excluded",
-      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+      "status": "included",
+      "songId": "s-f0e0faa5255e6d95"
     },
     {
       "raw": "検査",
       "title": "検査",
       "source": "https://linkco.re/nUq2nUHy?lang=ja",
-      "status": "excluded",
-      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+      "status": "included",
+      "songId": "s-8e28a92e2d4de982"
     },
     {
       "raw": "契れ！魔法少女☆ぽめらちゃん",
       "title": "契れ！魔法少女☆ぽめらちゃん",
       "source": "https://linkco.re/nUq2nUHy?lang=ja",
-      "status": "excluded",
-      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+      "status": "included",
+      "songId": "s-8574979c525ebb39"
     },
     {
       "raw": "BLACKOUT!!♡",
       "title": "BLACKOUT!!♡",
       "source": "https://linkco.re/nUq2nUHy?lang=ja",
-      "status": "excluded",
-      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+      "status": "included",
+      "songId": "s-28780a3cd242408c"
     },
     {
       "raw": "○×△□",
@@ -1012,29 +1012,29 @@
       "raw": "しゃぼん玉",
       "title": "しゃぼん玉",
       "source": "https://music.apple.com/jp/album/%E3%81%97%E3%82%83%E3%81%BC%E3%82%93%E7%8E%89/1562871763?i=1562871767&uo=4",
-      "status": "excluded",
-      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+      "status": "included",
+      "songId": "s-f0e0faa5255e6d95"
     },
     {
       "raw": "検査",
       "title": "検査",
       "source": "https://music.apple.com/jp/album/%E6%A4%9C%E6%9F%BB/1562871763?i=1562871768&uo=4",
-      "status": "excluded",
-      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+      "status": "included",
+      "songId": "s-8e28a92e2d4de982"
     },
     {
       "raw": "契れ!魔法少女☆ぽめらちゃん",
-      "title": "契れ!魔法少女☆ぽめらちゃん",
+      "title": "契れ！魔法少女☆ぽめらちゃん",
       "source": "https://music.apple.com/jp/album/%E5%A5%91%E3%82%8C-%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3-%E3%81%BD%E3%82%81%E3%82%89%E3%81%A1%E3%82%83%E3%82%93/1562871763?i=1562871770&uo=4",
-      "status": "excluded",
-      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+      "status": "merged",
+      "songId": "s-8574979c525ebb39"
     },
     {
       "raw": "BLACKOUT!!♡",
       "title": "BLACKOUT!!♡",
       "source": "https://music.apple.com/jp/album/blackout/1562871763?i=1562871772&uo=4",
-      "status": "excluded",
-      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+      "status": "included",
+      "songId": "s-28780a3cd242408c"
     },
     {
       "raw": "SE",
@@ -1662,18 +1662,6 @@
   ],
   "videos": [
     {
-      "id": "J8Qmh66SzZo",
-      "title": "アンスリューム / 光彩奏歌 (Official LIVE Music Video)",
-      "candidateTitle": "光彩奏歌",
-      "status": "included",
-      "songId": "s-f02cf3c592ab958a",
-      "source": "https://www.youtube.com/watch?v=J8Qmh66SzZo",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2026-03-13",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
       "id": "d-2zXA5SM_E",
       "title": "アンスリューム / Always Arise (Official LIVE Music Video)",
       "candidateTitle": "Always Arise",
@@ -1682,18 +1670,6 @@
       "source": "https://www.youtube.com/watch?v=d-2zXA5SM_E",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2026-06-05",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
-      "id": "ZnqwH33MMBE",
-      "title": "アンスリューム / OVER DRIVE (Official LIVE Music Video)",
-      "candidateTitle": "OVER DRIVE",
-      "status": "included",
-      "songId": "s-f6cfe810daf05eb0",
-      "source": "https://www.youtube.com/watch?v=ZnqwH33MMBE",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2026-06-02",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -1710,14 +1686,26 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "CqRM1gT5T94",
-      "title": "アンスリューム / 光彩奏歌 (Official Music Video)",
+      "id": "ZnqwH33MMBE",
+      "title": "アンスリューム / OVER DRIVE (Official LIVE Music Video)",
+      "candidateTitle": "OVER DRIVE",
+      "status": "included",
+      "songId": "s-f6cfe810daf05eb0",
+      "source": "https://www.youtube.com/watch?v=ZnqwH33MMBE",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2026-06-02",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "J8Qmh66SzZo",
+      "title": "アンスリューム / 光彩奏歌 (Official LIVE Music Video)",
       "candidateTitle": "光彩奏歌",
       "status": "included",
       "songId": "s-f02cf3c592ab958a",
-      "source": "https://www.youtube.com/watch?v=CqRM1gT5T94",
+      "source": "https://www.youtube.com/watch?v=J8Qmh66SzZo",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2025-11-04",
+      "published": "2026-03-13",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -1730,6 +1718,18 @@
       "source": "https://www.youtube.com/watch?v=fvaWj9k3M7Y",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2026-03-02",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "CqRM1gT5T94",
+      "title": "アンスリューム / 光彩奏歌 (Official Music Video)",
+      "candidateTitle": "光彩奏歌",
+      "status": "included",
+      "songId": "s-f02cf3c592ab958a",
+      "source": "https://www.youtube.com/watch?v=CqRM1gT5T94",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2025-11-04",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -1866,18 +1866,6 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "PvD16cd2LhY",
-      "title": "アンスリューム / とらべりゅーみん (Official Music Video)",
-      "candidateTitle": "とらべりゅーみん",
-      "status": "included",
-      "songId": "s-9b051c76582cbefe",
-      "source": "https://www.youtube.com/watch?v=PvD16cd2LhY",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2024-10-04",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
       "id": "sGyHxY-i5ww",
       "title": "アンスリューム  / チャイティーラテ(official Live MV)",
       "candidateTitle": "チャイティーラテ",
@@ -1886,6 +1874,18 @@
       "source": "https://www.youtube.com/watch?v=sGyHxY-i5ww",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2024-11-28",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "PvD16cd2LhY",
+      "title": "アンスリューム / とらべりゅーみん (Official Music Video)",
+      "candidateTitle": "とらべりゅーみん",
+      "status": "included",
+      "songId": "s-9b051c76582cbefe",
+      "source": "https://www.youtube.com/watch?v=PvD16cd2LhY",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-10-04",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -1905,8 +1905,8 @@
       "id": "xbT4dcTgj2Y",
       "title": "アンスリューム/dearラブソング(Official LIVE MV)",
       "candidateTitle": "dearラブソング",
-      "status": "excluded",
-      "reason": "説明欄に伊藤詩乃ソロ生誕曲と明記",
+      "status": "included",
+      "songId": "s-4beafc5288eaf90b",
       "source": "https://www.youtube.com/watch?v=xbT4dcTgj2Y",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2024-09-08",
@@ -1917,8 +1917,8 @@
       "id": "e-MVGuvpFwQ",
       "title": "アンスリューム/whitehours(Official LIVE MV)",
       "candidateTitle": "whitehours",
-      "status": "excluded",
-      "reason": "説明欄にジョウナイシ鳴ソロ生誕曲と明記",
+      "status": "included",
+      "songId": "s-1668e0b7b97c0d74",
       "source": "https://www.youtube.com/watch?v=e-MVGuvpFwQ",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2024-06-18",
@@ -1950,18 +1950,6 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "a8JFLQs6Oc4",
-      "title": "アンスリューム/Kiss me my Darling (Official Live MV)",
-      "candidateTitle": "Kiss me my Darling",
-      "status": "excluded",
-      "reason": "説明欄にもなかこゆソロ生誕曲と明記",
-      "source": "https://www.youtube.com/watch?v=a8JFLQs6Oc4",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2024-05-02",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
       "id": "AH6lZ1JNrKs",
       "title": "【歌って踊ってみた】乱舞LOんVE乱武 / もなかこゆ(アンスリューム)",
       "candidateTitle": ")",
@@ -1976,9 +1964,9 @@
     {
       "id": "pSmHHVgpR00",
       "title": "【Lyric Video】ときめき死 / 月埜ヒスイ(アンスリューム)",
-      "candidateTitle": ")",
-      "status": "excluded",
-      "reason": "個人ソロ・カバー",
+      "candidateTitle": "ときめき死（月埜ヒスイ ソロver.）",
+      "status": "included",
+      "songId": "s-e0bb08d3f2b7cc81",
       "source": "https://www.youtube.com/watch?v=pSmHHVgpR00",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2024-05-26",
@@ -1986,14 +1974,14 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "efNJPEETKc4",
-      "title": "もなかこゆ(アンスリューム)/すきっちゅーの！-踊ってみた",
-      "candidateTitle": ")/すきっちゅーの！-踊ってみた",
-      "status": "excluded",
-      "reason": "個人ソロ・カバー",
-      "source": "https://www.youtube.com/watch?v=efNJPEETKc4",
+      "id": "a8JFLQs6Oc4",
+      "title": "アンスリューム/Kiss me my Darling (Official Live MV)",
+      "candidateTitle": "Kiss me my Darling",
+      "status": "included",
+      "songId": "s-b5f2592ebd13a770",
+      "source": "https://www.youtube.com/watch?v=a8JFLQs6Oc4",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2024-04-19",
+      "published": "2024-05-02",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2006,6 +1994,18 @@
       "source": "https://www.youtube.com/watch?v=JH1jxBfzaos",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2024-04-18",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "efNJPEETKc4",
+      "title": "もなかこゆ(アンスリューム)/すきっちゅーの！-踊ってみた",
+      "candidateTitle": ")/すきっちゅーの！-踊ってみた",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=efNJPEETKc4",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-04-19",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2037,8 +2037,8 @@
       "id": "VvKQJujLOxs",
       "title": "アンスリューム/つきにゃん☆ひすてりっく☆にゃいと (Official Live MV)",
       "candidateTitle": "つきにゃん☆ひすてりっく☆にゃいと",
-      "status": "excluded",
-      "reason": "説明欄に月埜ヒスイソロ生誕曲と明記",
+      "status": "included",
+      "songId": "s-621dbf75e01354f2",
       "source": "https://www.youtube.com/watch?v=VvKQJujLOxs",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2024-02-19",
@@ -2046,14 +2046,14 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "pTRFiAUxbmg",
-      "title": "もなかこゆ(アンスリューム) / First Love - 歌ってみた",
-      "candidateTitle": ") / First Love - 歌ってみた",
-      "status": "excluded",
-      "reason": "個人ソロ・カバー",
-      "source": "https://www.youtube.com/watch?v=pTRFiAUxbmg",
+      "id": "50jjxYgxrrk",
+      "title": "アンスリューム/ALRIGHT (Official Live MV)",
+      "candidateTitle": "ALRIGHT",
+      "status": "included",
+      "songId": "s-b8a9dc73f1e1af5b",
+      "source": "https://www.youtube.com/watch?v=50jjxYgxrrk",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2023-11-30",
+      "published": "2024-01-21",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2070,14 +2070,14 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "50jjxYgxrrk",
-      "title": "アンスリューム/ALRIGHT (Official Live MV)",
-      "candidateTitle": "ALRIGHT",
+      "id": "pTRFiAUxbmg",
+      "title": "もなかこゆ(アンスリューム) / First Love - 歌ってみた",
+      "candidateTitle": ") / First Love - 歌ってみた",
       "status": "excluded",
-      "reason": "説明欄にちぎらソロ生誕曲と明記",
-      "source": "https://www.youtube.com/watch?v=50jjxYgxrrk",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=pTRFiAUxbmg",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2024-01-21",
+      "published": "2023-11-30",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2214,18 +2214,6 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "osSYhKHqpu0",
-      "title": "アンスリューム / おどりゃんせ！ (Official Live MV)",
-      "candidateTitle": "おどりゃんせ！",
-      "status": "included",
-      "songId": "s-ad313e93b4e4f8b1",
-      "source": "https://www.youtube.com/watch?v=osSYhKHqpu0",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2023-05-13",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
       "id": "EWa9vWudG5E",
       "title": "アンスリューム / おにぃちゃんス (Official MV)",
       "candidateTitle": "おにぃちゃんス",
@@ -2234,6 +2222,18 @@
       "source": "https://www.youtube.com/watch?v=EWa9vWudG5E",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2023-05-20",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "osSYhKHqpu0",
+      "title": "アンスリューム / おどりゃんせ！ (Official Live MV)",
+      "candidateTitle": "おどりゃんせ！",
+      "status": "included",
+      "songId": "s-ad313e93b4e4f8b1",
+      "source": "https://www.youtube.com/watch?v=osSYhKHqpu0",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-05-13",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2262,18 +2262,6 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "0AFtm3JTbIY",
-      "title": "アンスリューム / メランコリー (Official Live MV)",
-      "candidateTitle": "メランコリー",
-      "status": "included",
-      "songId": "s-3267d9a30b12bf59",
-      "source": "https://www.youtube.com/watch?v=0AFtm3JTbIY",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2023-03-09",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
       "id": "bc8G5t7JQV4",
       "title": "アンスリューム / 本気恋~ガチでこい!!~(Official Music Video)",
       "candidateTitle": "本気恋~ガチでこい!!~",
@@ -2286,14 +2274,14 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "Rpj2HrE4RKE",
-      "title": "アンスリューム / にゅーかおすっ!!!!!! (Official Live MV)",
-      "candidateTitle": "にゅーかおすっ!!!!",
+      "id": "0AFtm3JTbIY",
+      "title": "アンスリューム / メランコリー (Official Live MV)",
+      "candidateTitle": "メランコリー",
       "status": "included",
-      "songId": "s-af569d733386c29e",
-      "source": "https://www.youtube.com/watch?v=Rpj2HrE4RKE",
+      "songId": "s-3267d9a30b12bf59",
+      "source": "https://www.youtube.com/watch?v=0AFtm3JTbIY",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2023-01-26",
+      "published": "2023-03-09",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2334,14 +2322,14 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "ipcandV-bic",
-      "title": "アンスリューム / まだまえるっ!!!!!! (Official Live MV)",
-      "candidateTitle": "まだまえるっ!!!!!!",
+      "id": "Rpj2HrE4RKE",
+      "title": "アンスリューム / にゅーかおすっ!!!!!! (Official Live MV)",
+      "candidateTitle": "にゅーかおすっ!!!!",
       "status": "included",
-      "songId": "s-722715a37101c0f2",
-      "source": "https://www.youtube.com/watch?v=ipcandV-bic",
+      "songId": "s-af569d733386c29e",
+      "source": "https://www.youtube.com/watch?v=Rpj2HrE4RKE",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2023-01-12",
+      "published": "2023-01-26",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2354,6 +2342,18 @@
       "source": "https://www.youtube.com/watch?v=UsAkiCbOyN4",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2023-01-01",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "ipcandV-bic",
+      "title": "アンスリューム / まだまえるっ!!!!!! (Official Live MV)",
+      "candidateTitle": "まだまえるっ!!!!!!",
+      "status": "included",
+      "songId": "s-722715a37101c0f2",
+      "source": "https://www.youtube.com/watch?v=ipcandV-bic",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-01-12",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2382,6 +2382,18 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
+      "id": "URCEq5Zi7is",
+      "title": "アンスリューム / レイニーダーリン(Official Music Video)",
+      "candidateTitle": "レイニーダーリン",
+      "status": "included",
+      "songId": "s-624211d56b5940fd",
+      "source": "https://www.youtube.com/watch?v=URCEq5Zi7is",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2022-06-29",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
       "id": "lv3I_JFbi6A",
       "title": "アンスリューム / すすれ！ちゅるちゅる家系らーめん (Official Live MV)",
       "candidateTitle": "すすれ！ちゅるちゅる家系らーめん",
@@ -2390,18 +2402,6 @@
       "source": "https://www.youtube.com/watch?v=lv3I_JFbi6A",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2022-05-27",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
-      "id": "8BE6lLZBieU",
-      "title": "アンスリューム / 明日世界が消える前に(2022 ver.) (Official Music Video)",
-      "candidateTitle": "明日世界が消える前に",
-      "status": "included",
-      "songId": "s-39067a9db896e242",
-      "source": "https://www.youtube.com/watch?v=8BE6lLZBieU",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2022-03-16",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2418,14 +2418,14 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "URCEq5Zi7is",
-      "title": "アンスリューム / レイニーダーリン(Official Music Video)",
-      "candidateTitle": "レイニーダーリン",
+      "id": "8BE6lLZBieU",
+      "title": "アンスリューム / 明日世界が消える前に(2022 ver.) (Official Music Video)",
+      "candidateTitle": "明日世界が消える前に",
       "status": "included",
-      "songId": "s-624211d56b5940fd",
-      "source": "https://www.youtube.com/watch?v=URCEq5Zi7is",
+      "songId": "s-39067a9db896e242",
+      "source": "https://www.youtube.com/watch?v=8BE6lLZBieU",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2022-06-29",
+      "published": "2022-03-16",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2442,24 +2442,24 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "gjgTQC0vWf8",
-      "title": "周年記念ライブ 今際の国のアンス(TSUTAYA O-EAST)＜for J-LODlive＞",
-      "candidateTitle": "周年記念",
-      "status": "excluded",
-      "reason": "周年公演の複数曲映像。説明欄に曲目の明記なし",
-      "source": "https://www.youtube.com/watch?v=gjgTQC0vWf8",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2021-07-22",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
       "id": "C9HxlhEPAsc",
       "title": "アンスリューム かがやけ！サンシャインマスカット(Official Music Video)",
       "candidateTitle": "かがやけ！サンシャインマスカット",
       "status": "included",
       "songId": "s-4adbc312cd9a9642",
       "source": "https://www.youtube.com/watch?v=C9HxlhEPAsc",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2021-07-22",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "gjgTQC0vWf8",
+      "title": "周年記念ライブ 今際の国のアンス(TSUTAYA O-EAST)＜for J-LODlive＞",
+      "candidateTitle": "周年記念",
+      "status": "excluded",
+      "reason": "周年公演の複数曲映像。説明欄に曲目の明記なし",
+      "source": "https://www.youtube.com/watch?v=gjgTQC0vWf8",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2021-07-22",
       "author": "アンスリューム【公式】",
@@ -2478,30 +2478,6 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "HLGiCP6LFpo",
-      "title": "アンスリューム BLACKOUT!!♡(月埜ヒスイソロ曲)",
-      "candidateTitle": "BLACKOUT!!♡(月埜ヒスイソロ曲)",
-      "status": "excluded",
-      "reason": "個人ソロ・カバー",
-      "source": "https://www.youtube.com/watch?v=HLGiCP6LFpo",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2021-02-21",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
-      "id": "HpThJkpbVto",
-      "title": "アンスリューム 契れ！魔法少女⭐︎ぽめらちゃん(ちぎらソロ曲)",
-      "candidateTitle": "契れ！魔法少女⭐︎ぽめらちゃん(ちぎらソロ曲)",
-      "status": "excluded",
-      "reason": "個人ソロ・カバー",
-      "source": "https://www.youtube.com/watch?v=HpThJkpbVto",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2021-01-24",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
       "id": "htnhxSw4MUI",
       "title": "アンスリューム ぺるぺっぽ [Live MV]",
       "candidateTitle": "ぺるぺっぽ",
@@ -2514,11 +2490,35 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
+      "id": "HLGiCP6LFpo",
+      "title": "アンスリューム BLACKOUT!!♡(月埜ヒスイソロ曲)",
+      "candidateTitle": "BLACKOUT!!♡",
+      "status": "included",
+      "songId": "s-28780a3cd242408c",
+      "source": "https://www.youtube.com/watch?v=HLGiCP6LFpo",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2021-02-21",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "HpThJkpbVto",
+      "title": "アンスリューム 契れ！魔法少女⭐︎ぽめらちゃん(ちぎらソロ曲)",
+      "candidateTitle": "契れ！魔法少女☆ぽめらちゃん",
+      "status": "included",
+      "songId": "s-8574979c525ebb39",
+      "source": "https://www.youtube.com/watch?v=HpThJkpbVto",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2021-01-24",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
       "id": "my70uziicfs",
       "title": "アンスリューム 検査（天神・大天使・閻魔ソロ曲）",
-      "candidateTitle": "検査（天神・大天使・閻魔ソロ曲）",
-      "status": "excluded",
-      "reason": "個人ソロ・カバー",
+      "candidateTitle": "検査",
+      "status": "included",
+      "songId": "s-8e28a92e2d4de982",
       "source": "https://www.youtube.com/watch?v=my70uziicfs",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2020-12-24",
@@ -2528,9 +2528,9 @@
     {
       "id": "an_QsvA7IcU",
       "title": "アンスリューム しゃぼん玉（黒木いろソロ曲）",
-      "candidateTitle": "しゃぼん玉（黒木いろソロ曲）",
-      "status": "excluded",
-      "reason": "個人ソロ・カバー",
+      "candidateTitle": "しゃぼん玉",
+      "status": "included",
+      "songId": "s-f0e0faa5255e6d95",
       "source": "https://www.youtube.com/watch?v=an_QsvA7IcU",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2020-11-28",
@@ -2574,18 +2574,6 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "2drKnZ3E_Oo",
-      "title": "アンスリューム 警察犬 (Official Music Video)",
-      "candidateTitle": "警察犬",
-      "status": "included",
-      "songId": "s-1493097d9540aa5c",
-      "source": "https://www.youtube.com/watch?v=2drKnZ3E_Oo",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2020-10-31",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
       "id": "jwPYict8ptE",
       "title": "今夜は世界のまんなかで",
       "candidateTitle": "今夜は世界のまんなかで",
@@ -2594,6 +2582,18 @@
       "source": "https://www.youtube.com/watch?v=jwPYict8ptE",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2020-05-31",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "2drKnZ3E_Oo",
+      "title": "アンスリューム 警察犬 (Official Music Video)",
+      "candidateTitle": "警察犬",
+      "status": "included",
+      "songId": "s-1493097d9540aa5c",
+      "source": "https://www.youtube.com/watch?v=2drKnZ3E_Oo",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-10-31",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2670,18 +2670,6 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "VdsXh3daCoA",
-      "title": "アンスリューム だだだっ!!!! [Live MV]",
-      "candidateTitle": "だだだっ!!!!",
-      "status": "included",
-      "songId": "s-5177938ad0576b72",
-      "source": "https://www.youtube.com/watch?v=VdsXh3daCoA",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2019-11-24",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
       "id": "yJAWGPGtfd0",
       "title": "アンスリューム アンスデーム [Live MV]",
       "candidateTitle": "アンスデーム",
@@ -2692,6 +2680,18 @@
       "published": "2019-11-29",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "VdsXh3daCoA",
+      "title": "アンスリューム だだだっ!!!! [Live MV]",
+      "candidateTitle": "だだだっ!!!!",
+      "status": "included",
+      "songId": "s-5177938ad0576b72",
+      "source": "https://www.youtube.com/watch?v=VdsXh3daCoA",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2019-11-24",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     }
   ],
   "supplements": [
@@ -2700,13 +2700,14 @@
       "status": "included",
       "songId": "s-d2f59886c01d1eaf",
       "source": "https://note.com/tacomarinade/n/n9152d8aa9b77",
-      "reason": "ユーザー指定により収録。過去曲としてライブレポートに言及あり。発売日・初披露日・公式動画は未確認"
+      "reason": "楽曲の年はユーザー確認により2019年。月日・公式動画は未確認"
     },
     {
       "title": "夢桜",
       "status": "included",
       "songId": "s-90655b9eecea978b",
-      "source": "https://note.com/tacomarinade/n/n9152d8aa9b77"
+      "source": "https://note.com/tacomarinade/n/n9152d8aa9b77",
+      "reason": "楽曲の年はユーザー確認により2019年。月日・公式動画は未確認"
     },
     {
       "title": "君夢物語",
@@ -2727,6 +2728,41 @@
       "source": "https://www.youtube.com/watch?v=UsAkiCbOyN4"
     },
     {
+      "title": "dearラブソング",
+      "status": "included",
+      "songId": "s-4beafc5288eaf90b",
+      "source": "https://www.youtube.com/watch?v=xbT4dcTgj2Y",
+      "reason": "公式映像の説明欄でソロ生誕曲と確認。個人ソロの切替対象として収録"
+    },
+    {
+      "title": "whitehours",
+      "status": "included",
+      "songId": "s-1668e0b7b97c0d74",
+      "source": "https://www.youtube.com/watch?v=e-MVGuvpFwQ",
+      "reason": "公式映像の説明欄でソロ生誕曲と確認。個人ソロの切替対象として収録"
+    },
+    {
+      "title": "Kiss me my Darling",
+      "status": "included",
+      "songId": "s-b5f2592ebd13a770",
+      "source": "https://www.youtube.com/watch?v=a8JFLQs6Oc4",
+      "reason": "公式映像の説明欄でソロ生誕曲と確認。個人ソロの切替対象として収録"
+    },
+    {
+      "title": "つきにゃん☆ひすてりっく☆にゃいと",
+      "status": "included",
+      "songId": "s-621dbf75e01354f2",
+      "source": "https://www.youtube.com/watch?v=VvKQJujLOxs",
+      "reason": "公式映像の説明欄でソロ生誕曲と確認。個人ソロの切替対象として収録"
+    },
+    {
+      "title": "ALRIGHT",
+      "status": "included",
+      "songId": "s-b8a9dc73f1e1af5b",
+      "source": "https://www.youtube.com/watch?v=50jjxYgxrrk",
+      "reason": "公式映像の説明欄でソロ生誕曲と確認。個人ソロの切替対象として収録"
+    },
+    {
       "title": "おにぃちゃんス",
       "status": "included",
       "songId": "s-a2e4a85337e1fd82",
@@ -2737,6 +2773,36 @@
       "status": "included",
       "songId": "s-f2c4be5c2884fa8c",
       "source": "https://www.youtube.com/watch?v=zoPStPOQaGw"
+    },
+    {
+      "title": "しゃぼん玉",
+      "status": "included",
+      "songId": "s-f0e0faa5255e6d95",
+      "source": "https://www.youtube.com/watch?v=an_QsvA7IcU"
+    },
+    {
+      "title": "検査",
+      "status": "included",
+      "songId": "s-8e28a92e2d4de982",
+      "source": "https://www.youtube.com/watch?v=my70uziicfs"
+    },
+    {
+      "title": "契れ！魔法少女☆ぽめらちゃん",
+      "status": "included",
+      "songId": "s-8574979c525ebb39",
+      "source": "https://www.youtube.com/watch?v=HpThJkpbVto"
+    },
+    {
+      "title": "BLACKOUT!!♡",
+      "status": "included",
+      "songId": "s-28780a3cd242408c",
+      "source": "https://www.youtube.com/watch?v=HLGiCP6LFpo"
+    },
+    {
+      "title": "ときめき死（月埜ヒスイ ソロver.）",
+      "status": "included",
+      "songId": "s-e0bb08d3f2b7cc81",
+      "source": "https://www.youtube.com/watch?v=pSmHHVgpR00"
     }
   ],
   "pending": []

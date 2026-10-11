@@ -368,6 +368,94 @@ export const SONGS = [
     }
   },
   {
+    "id": "s-4beafc5288eaf90b",
+    "title": "dearラブソング",
+    "date": "2024-09-08",
+    "dateKind": "video",
+    "release": "伊藤詩乃 ソロ曲（公式映像）",
+    "solo": true,
+    "soloArtist": "伊藤詩乃",
+    "sources": [
+      {
+        "title": "アンスリューム/dearラブソング(Official LIVE MV)",
+        "url": "https://www.youtube.com/watch?v=xbT4dcTgj2Y",
+        "date": "2024-09-08"
+      }
+    ],
+    "video": {
+      "id": "xbT4dcTgj2Y",
+      "title": "アンスリューム/dearラブソング(Official LIVE MV)",
+      "type": "ライブ映像",
+      "source": "https://www.youtube.com/watch?v=xbT4dcTgj2Y"
+    }
+  },
+  {
+    "id": "s-1668e0b7b97c0d74",
+    "title": "whitehours",
+    "date": "2024-06-18",
+    "dateKind": "video",
+    "release": "ジョウナイシ鳴 ソロ曲（公式映像）",
+    "solo": true,
+    "soloArtist": "ジョウナイシ鳴",
+    "sources": [
+      {
+        "title": "アンスリューム/whitehours(Official LIVE MV)",
+        "url": "https://www.youtube.com/watch?v=e-MVGuvpFwQ",
+        "date": "2024-06-18"
+      }
+    ],
+    "video": {
+      "id": "e-MVGuvpFwQ",
+      "title": "アンスリューム/whitehours(Official LIVE MV)",
+      "type": "ライブ映像",
+      "source": "https://www.youtube.com/watch?v=e-MVGuvpFwQ"
+    }
+  },
+  {
+    "id": "s-e0bb08d3f2b7cc81",
+    "title": "ときめき死（月埜ヒスイ ソロver.）",
+    "date": "2024-05-26",
+    "dateKind": "video",
+    "release": "月埜ヒスイ ソロ曲（公式映像）",
+    "solo": true,
+    "soloArtist": "月埜ヒスイ",
+    "sources": [
+      {
+        "title": "【Lyric Video】ときめき死 / 月埜ヒスイ(アンスリューム)",
+        "url": "https://www.youtube.com/watch?v=pSmHHVgpR00",
+        "date": "2024-05-26"
+      }
+    ],
+    "video": {
+      "id": "pSmHHVgpR00",
+      "title": "【Lyric Video】ときめき死 / 月埜ヒスイ(アンスリューム)",
+      "type": "MV",
+      "source": "https://www.youtube.com/watch?v=pSmHHVgpR00"
+    }
+  },
+  {
+    "id": "s-b5f2592ebd13a770",
+    "title": "Kiss me my Darling",
+    "date": "2024-05-02",
+    "dateKind": "video",
+    "release": "もなかこゆ ソロ曲（公式映像）",
+    "solo": true,
+    "soloArtist": "もなかこゆ",
+    "sources": [
+      {
+        "title": "アンスリューム/Kiss me my Darling (Official Live MV)",
+        "url": "https://www.youtube.com/watch?v=a8JFLQs6Oc4",
+        "date": "2024-05-02"
+      }
+    ],
+    "video": {
+      "id": "a8JFLQs6Oc4",
+      "title": "アンスリューム/Kiss me my Darling (Official Live MV)",
+      "type": "ライブ映像",
+      "source": "https://www.youtube.com/watch?v=a8JFLQs6Oc4"
+    }
+  },
+  {
     "id": "s-47427c04433a30a6",
     "title": "Win！うぃんたー！",
     "date": "2024-04-09",
@@ -457,6 +545,50 @@ export const SONGS = [
       "title": "アンスリューム / 恋のお注射 (Official Music Video)",
       "type": "MV",
       "source": "https://www.youtube.com/watch?v=JH1jxBfzaos"
+    }
+  },
+  {
+    "id": "s-621dbf75e01354f2",
+    "title": "つきにゃん☆ひすてりっく☆にゃいと",
+    "date": "2024-02-19",
+    "dateKind": "video",
+    "release": "月埜ヒスイ ソロ曲（公式映像）",
+    "solo": true,
+    "soloArtist": "月埜ヒスイ",
+    "sources": [
+      {
+        "title": "アンスリューム/つきにゃん☆ひすてりっく☆にゃいと (Official Live MV)",
+        "url": "https://www.youtube.com/watch?v=VvKQJujLOxs",
+        "date": "2024-02-19"
+      }
+    ],
+    "video": {
+      "id": "VvKQJujLOxs",
+      "title": "アンスリューム/つきにゃん☆ひすてりっく☆にゃいと (Official Live MV)",
+      "type": "ライブ映像",
+      "source": "https://www.youtube.com/watch?v=VvKQJujLOxs"
+    }
+  },
+  {
+    "id": "s-b8a9dc73f1e1af5b",
+    "title": "ALRIGHT",
+    "date": "2024-01-21",
+    "dateKind": "video",
+    "release": "ちぎら ソロ曲（公式映像）",
+    "solo": true,
+    "soloArtist": "ちぎら",
+    "sources": [
+      {
+        "title": "アンスリューム/ALRIGHT (Official Live MV)",
+        "url": "https://www.youtube.com/watch?v=50jjxYgxrrk",
+        "date": "2024-01-21"
+      }
+    ],
+    "video": {
+      "id": "50jjxYgxrrk",
+      "title": "アンスリューム/ALRIGHT (Official Live MV)",
+      "type": "ライブ映像",
+      "source": "https://www.youtube.com/watch?v=50jjxYgxrrk"
     }
   },
   {
@@ -1071,20 +1203,6 @@ export const SONGS = [
     }
   },
   {
-    "id": "s-90655b9eecea978b",
-    "title": "夢桜",
-    "date": "2022-02-22",
-    "dateKind": "live",
-    "release": "ライブ披露曲（音源未確認）",
-    "sources": [
-      {
-        "title": "月埜ヒスイ生誕祭ライブレポート M4（披露確認日、初披露日ではない）",
-        "url": "https://note.com/tacomarinade/n/n9152d8aa9b77",
-        "date": "2022-02-22"
-      }
-    ]
-  },
-  {
     "id": "s-3b6d53dab49ed250",
     "title": "アンスリューム大サーカス",
     "date": "2022-02-06",
@@ -1263,6 +1381,34 @@ export const SONGS = [
     ]
   },
   {
+    "id": "s-28780a3cd242408c",
+    "title": "BLACKOUT!!♡",
+    "date": "2021-04-14",
+    "release": "バースリュームツー",
+    "artworkSource": "https://www.tunecore.co.jp/s3pna/tcj-image-production/u69288/r773452/itd773452.jpg",
+    "artwork": "./jackets/26d8d252ef16afce.webp",
+    "sources": [
+      {
+        "title": "バースリュームツー",
+        "url": "https://linkco.re/nUq2nUHy?lang=ja",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "バースリュームツー - EP",
+        "url": "https://music.apple.com/jp/album/blackout/1562871763?i=1562871772&uo=4",
+        "date": "2021-04-14"
+      }
+    ],
+    "solo": true,
+    "soloArtist": "月埜ヒスイ",
+    "video": {
+      "id": "HLGiCP6LFpo",
+      "title": "アンスリューム BLACKOUT!!♡(月埜ヒスイソロ曲)",
+      "type": "MV",
+      "source": "https://www.youtube.com/watch?v=HLGiCP6LFpo"
+    }
+  },
+  {
     "id": "s-4521cffd57f92f17",
     "title": "さくらブロードウェイ",
     "date": "2021-04-14",
@@ -1294,6 +1440,34 @@ export const SONGS = [
     }
   },
   {
+    "id": "s-f0e0faa5255e6d95",
+    "title": "しゃぼん玉",
+    "date": "2021-04-14",
+    "release": "バースリュームツー",
+    "artworkSource": "https://www.tunecore.co.jp/s3pna/tcj-image-production/u69288/r773452/itd773452.jpg",
+    "artwork": "./jackets/26d8d252ef16afce.webp",
+    "sources": [
+      {
+        "title": "バースリュームツー",
+        "url": "https://linkco.re/nUq2nUHy?lang=ja",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "バースリュームツー - EP",
+        "url": "https://music.apple.com/jp/album/%E3%81%97%E3%82%83%E3%81%BC%E3%82%93%E7%8E%89/1562871763?i=1562871767&uo=4",
+        "date": "2021-04-14"
+      }
+    ],
+    "solo": true,
+    "soloArtist": "黒木いろ",
+    "video": {
+      "id": "an_QsvA7IcU",
+      "title": "アンスリューム しゃぼん玉（黒木いろソロ曲）",
+      "type": "MV",
+      "source": "https://www.youtube.com/watch?v=an_QsvA7IcU"
+    }
+  },
+  {
     "id": "s-e1113a95ed683d78",
     "title": "ぺるぺっぽ",
     "date": "2021-04-14",
@@ -1322,6 +1496,62 @@ export const SONGS = [
       "title": "アンスリューム ぺるぺっぽ [Live MV]",
       "type": "ライブ映像",
       "source": "https://www.youtube.com/watch?v=htnhxSw4MUI"
+    }
+  },
+  {
+    "id": "s-8574979c525ebb39",
+    "title": "契れ！魔法少女☆ぽめらちゃん",
+    "date": "2021-04-14",
+    "release": "バースリュームツー",
+    "artworkSource": "https://www.tunecore.co.jp/s3pna/tcj-image-production/u69288/r773452/itd773452.jpg",
+    "artwork": "./jackets/26d8d252ef16afce.webp",
+    "sources": [
+      {
+        "title": "バースリュームツー",
+        "url": "https://linkco.re/nUq2nUHy?lang=ja",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "バースリュームツー - EP",
+        "url": "https://music.apple.com/jp/album/%E5%A5%91%E3%82%8C-%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3-%E3%81%BD%E3%82%81%E3%82%89%E3%81%A1%E3%82%83%E3%82%93/1562871763?i=1562871770&uo=4",
+        "date": "2021-04-14"
+      }
+    ],
+    "solo": true,
+    "soloArtist": "ちぎら",
+    "video": {
+      "id": "HpThJkpbVto",
+      "title": "アンスリューム 契れ！魔法少女⭐︎ぽめらちゃん(ちぎらソロ曲)",
+      "type": "MV",
+      "source": "https://www.youtube.com/watch?v=HpThJkpbVto"
+    }
+  },
+  {
+    "id": "s-8e28a92e2d4de982",
+    "title": "検査",
+    "date": "2021-04-14",
+    "release": "バースリュームツー",
+    "artworkSource": "https://www.tunecore.co.jp/s3pna/tcj-image-production/u69288/r773452/itd773452.jpg",
+    "artwork": "./jackets/26d8d252ef16afce.webp",
+    "sources": [
+      {
+        "title": "バースリュームツー",
+        "url": "https://linkco.re/nUq2nUHy?lang=ja",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "バースリュームツー - EP",
+        "url": "https://music.apple.com/jp/album/%E6%A4%9C%E6%9F%BB/1562871763?i=1562871768&uo=4",
+        "date": "2021-04-14"
+      }
+    ],
+    "solo": true,
+    "soloArtist": "天神・大天使・閻魔",
+    "video": {
+      "id": "my70uziicfs",
+      "title": "アンスリューム 検査（天神・大天使・閻魔ソロ曲）",
+      "type": "MV",
+      "source": "https://www.youtube.com/watch?v=my70uziicfs"
     }
   },
   {
@@ -1982,15 +2212,30 @@ export const SONGS = [
   {
     "id": "s-d2f59886c01d1eaf",
     "title": "アイデンティティクライシス",
-    "date": "",
-    "dateKind": "unknown",
-    "release": "音源・公開年未確認",
+    "date": "2019",
+    "dateKind": "year",
+    "release": "2019年の楽曲（音源未確認）",
     "sources": [
       {
         "title": "月埜ヒスイ生誕祭ライブレポート（過去曲として言及）",
         "url": "https://note.com/tacomarinade/n/n9152d8aa9b77"
       }
     ],
-    "catalogNote": "ユーザー指定により収録。過去曲としてライブレポートに言及あり。発売日・初披露日・公式動画は未確認"
+    "catalogNote": "楽曲の年はユーザー確認により2019年。月日・公式動画は未確認"
+  },
+  {
+    "id": "s-90655b9eecea978b",
+    "title": "夢桜",
+    "date": "2019",
+    "dateKind": "year",
+    "release": "2019年の楽曲（音源未確認）",
+    "sources": [
+      {
+        "title": "月埜ヒスイ生誕祭ライブレポート M4（披露確認日、初披露日ではない）",
+        "url": "https://note.com/tacomarinade/n/n9152d8aa9b77",
+        "date": "2022-02-22"
+      }
+    ],
+    "catalogNote": "楽曲の年はユーザー確認により2019年。月日・公式動画は未確認"
   }
 ];
