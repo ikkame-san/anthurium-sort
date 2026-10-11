@@ -1,0 +1,17 @@
+{
+  "name": "anthurium-sort",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check app.js && node --check engine.js && node --check songs.js && node --check jackets.js && node --check scripts/build-jackets.mjs && node --check catalog.js"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "devDependencies": {
+    "sharp": "0.35.5"
+  }
+}

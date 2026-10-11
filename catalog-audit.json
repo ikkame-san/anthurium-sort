@@ -1,0 +1,2743 @@
+{
+  "checkedAt": "2026-10-11",
+  "scope": "公開リリース曲目・公式YouTube公開一覧のメタデータ照合。全映像を通して視聴した監査ではない。削除・非公開動画や未発表曲の完全性は保証しない。",
+  "uploadsChecked": 86,
+  "playerMetadataChecked": 86,
+  "releases": [
+    {
+      "raw": "オーバーチュア -ウェルカム・トゥ・ザ・ワールズエンド。-",
+      "source": "https://linkco.re/t6sMxmZ7?lang=ja",
+      "status": "excluded",
+      "reason": "参加作品のうちアンスリューム参加表記がない曲"
+    },
+    {
+      "raw": "オーバードーズ・バッドトリッパーズ",
+      "source": "https://linkco.re/t6sMxmZ7?lang=ja",
+      "status": "excluded",
+      "reason": "参加作品のうちアンスリューム参加表記がない曲"
+    },
+    {
+      "raw": "スターダストソング",
+      "source": "https://linkco.re/t6sMxmZ7?lang=ja",
+      "status": "excluded",
+      "reason": "参加作品のうちアンスリューム参加表記がない曲"
+    },
+    {
+      "raw": "浮世ディスコ",
+      "source": "https://linkco.re/t6sMxmZ7?lang=ja",
+      "status": "excluded",
+      "reason": "参加作品のうちアンスリューム参加表記がない曲"
+    },
+    {
+      "raw": "スカーレット",
+      "source": "https://linkco.re/t6sMxmZ7?lang=ja",
+      "status": "excluded",
+      "reason": "参加作品のうちアンスリューム参加表記がない曲"
+    },
+    {
+      "raw": "トレモロセブンティーン",
+      "source": "https://linkco.re/t6sMxmZ7?lang=ja",
+      "status": "excluded",
+      "reason": "参加作品のうちアンスリューム参加表記がない曲"
+    },
+    {
+      "raw": "ドリーミン・ドリーミン",
+      "source": "https://linkco.re/t6sMxmZ7?lang=ja",
+      "status": "excluded",
+      "reason": "参加作品のうちアンスリューム参加表記がない曲"
+    },
+    {
+      "raw": "かくめいごっこ",
+      "source": "https://linkco.re/t6sMxmZ7?lang=ja",
+      "status": "excluded",
+      "reason": "参加作品のうちアンスリューム参加表記がない曲"
+    },
+    {
+      "raw": "ダリィファンク",
+      "source": "https://linkco.re/t6sMxmZ7?lang=ja",
+      "status": "excluded",
+      "reason": "参加作品のうちアンスリューム参加表記がない曲"
+    },
+    {
+      "raw": "シンデレラとよばないで (feat. アンスリューム)",
+      "title": "シンデレラとよばないで (feat. アンスリューム)",
+      "source": "https://linkco.re/t6sMxmZ7?lang=ja",
+      "status": "included",
+      "songId": "s-30c7c0a907141082"
+    },
+    {
+      "raw": "ハロー・グッドバイ",
+      "source": "https://linkco.re/t6sMxmZ7?lang=ja",
+      "status": "excluded",
+      "reason": "参加作品のうちアンスリューム参加表記がない曲"
+    },
+    {
+      "raw": "ブレーメン",
+      "source": "https://linkco.re/t6sMxmZ7?lang=ja",
+      "status": "excluded",
+      "reason": "参加作品のうちアンスリューム参加表記がない曲"
+    },
+    {
+      "raw": "Always Arise",
+      "title": "Always Arise",
+      "source": "https://linkco.re/4CADNscv?lang=ja",
+      "status": "included",
+      "songId": "s-b34f9e5b245cd74d"
+    },
+    {
+      "raw": "OVER DRIVE",
+      "title": "OVER DRIVE",
+      "source": "https://linkco.re/ZP1NUEv8?lang=ja",
+      "status": "included",
+      "songId": "s-f6cfe810daf05eb0"
+    },
+    {
+      "raw": "Stay Real",
+      "title": "Stay Real",
+      "source": "https://linkco.re/d220Gtvz?lang=ja",
+      "status": "included",
+      "songId": "s-4ba3b14fab315bde"
+    },
+    {
+      "raw": "シルエットノーバー",
+      "title": "シルエットノーバー",
+      "source": "https://linkco.re/90gez2Ue?lang=ja",
+      "status": "included",
+      "songId": "s-17d6e1f3b15b7b51"
+    },
+    {
+      "raw": "is",
+      "title": "is",
+      "source": "https://linkco.re/nTNmAf5Z?lang=ja",
+      "status": "included",
+      "songId": "s-fa51fd49abf67705"
+    },
+    {
+      "raw": "光彩奏歌",
+      "title": "光彩奏歌",
+      "source": "https://linkco.re/MGtNeXXZ?lang=ja",
+      "status": "included",
+      "songId": "s-f02cf3c592ab958a"
+    },
+    {
+      "raw": "Re:start Live",
+      "title": "Re:start Live",
+      "source": "https://linkco.re/MGtNeXXZ?lang=ja",
+      "status": "included",
+      "songId": "s-76883dc857690a0b"
+    },
+    {
+      "raw": "ふわふわ？わんにゃん?ダービー",
+      "title": "ふわふわ？わんにゃん?ダービー",
+      "source": "https://linkco.re/MGtNeXXZ?lang=ja",
+      "status": "included",
+      "songId": "s-fc84ad24c202e83d"
+    },
+    {
+      "raw": "ダイナマイトぺろり",
+      "title": "ダイナマイトぺろり",
+      "source": "https://linkco.re/MGtNeXXZ?lang=ja",
+      "status": "included",
+      "songId": "s-5f2c5c62b456a2c3"
+    },
+    {
+      "raw": "焦がせ!!アゲアゲ☆フライドポテト",
+      "title": "焦がせ!!アゲアゲ☆フライドポテト",
+      "source": "https://linkco.re/MGtNeXXZ?lang=ja",
+      "status": "included",
+      "songId": "s-222640e8e7942ac3"
+    },
+    {
+      "raw": "世界を回せ!アンスリューム!",
+      "title": "世界を回せ!アンスリューム!",
+      "source": "https://linkco.re/MGtNeXXZ?lang=ja",
+      "status": "included",
+      "songId": "s-12e29bf963d350b9"
+    },
+    {
+      "raw": "Magic shower",
+      "title": "Magic shower",
+      "source": "https://linkco.re/MGtNeXXZ?lang=ja",
+      "status": "included",
+      "songId": "s-8f78f0ce198ed77b"
+    },
+    {
+      "raw": "Overture",
+      "title": "Overture",
+      "source": "https://linkco.re/5uysUxyS?lang=ja",
+      "status": "excluded",
+      "reason": "SE・インスト・メドレー・メッセージ"
+    },
+    {
+      "raw": "はいどあんどしーく！ (2025ver.)",
+      "title": "はいどあんどしーく！",
+      "source": "https://linkco.re/5uysUxyS?lang=ja",
+      "status": "merged",
+      "songId": "s-db168ca7e974b195"
+    },
+    {
+      "raw": "だだだっ!!!!!!!",
+      "title": "だだだっ!!!!",
+      "source": "https://linkco.re/5uysUxyS?lang=ja",
+      "status": "merged",
+      "songId": "s-5177938ad0576b72"
+    },
+    {
+      "raw": "今夜は世界のまんなかで",
+      "title": "今夜は世界のまんなかで",
+      "source": "https://linkco.re/5uysUxyS?lang=ja",
+      "status": "included",
+      "songId": "s-fb85c41edc65ad30"
+    },
+    {
+      "raw": "すすれ!!ちゅるちゅる家系らーめん",
+      "title": "すすれ！ちゅるちゅる家系らーめん",
+      "source": "https://linkco.re/5uysUxyS?lang=ja",
+      "status": "merged",
+      "songId": "s-0b692dda78bab494"
+    },
+    {
+      "raw": "警察犬",
+      "title": "警察犬",
+      "source": "https://linkco.re/5uysUxyS?lang=ja",
+      "status": "included",
+      "songId": "s-1493097d9540aa5c"
+    },
+    {
+      "raw": "にゅーかおすっ!!!!!!!!",
+      "title": "にゅーかおすっ!!!!",
+      "source": "https://linkco.re/5uysUxyS?lang=ja",
+      "status": "merged",
+      "songId": "s-af569d733386c29e"
+    },
+    {
+      "raw": "光彩奏歌",
+      "title": "光彩奏歌",
+      "source": "https://linkco.re/xcC12qz7?lang=ja",
+      "status": "included",
+      "songId": "s-f02cf3c592ab958a"
+    },
+    {
+      "raw": "Re:Start Live",
+      "title": "Re:Start Live",
+      "source": "https://linkco.re/zAsSR2FE?lang=ja",
+      "status": "merged",
+      "songId": "s-76883dc857690a0b"
+    },
+    {
+      "raw": "Magic shower",
+      "title": "Magic shower",
+      "source": "https://linkco.re/NB7n93D4?lang=ja",
+      "status": "included",
+      "songId": "s-8f78f0ce198ed77b"
+    },
+    {
+      "raw": "ダイナマイトぺろり",
+      "title": "ダイナマイトぺろり",
+      "source": "https://linkco.re/YCZbNZhX?lang=ja",
+      "status": "included",
+      "songId": "s-5f2c5c62b456a2c3"
+    },
+    {
+      "raw": "焦がせ!!アゲアゲ☆フライドポテト",
+      "title": "焦がせ!!アゲアゲ☆フライドポテト",
+      "source": "https://linkco.re/fMXc0yUM?lang=ja",
+      "status": "included",
+      "songId": "s-222640e8e7942ac3"
+    },
+    {
+      "raw": "とらべりゅーみん",
+      "title": "とらべりゅーみん",
+      "source": "https://linkco.re/zXpTsra0?lang=ja",
+      "status": "included",
+      "songId": "s-9b051c76582cbefe"
+    },
+    {
+      "raw": "どたばたんきゅー！",
+      "title": "どたばたんきゅー！",
+      "source": "https://linkco.re/zXpTsra0?lang=ja",
+      "status": "included",
+      "songId": "s-272aa9dfa5bc5d58"
+    },
+    {
+      "raw": "恋のお注射 (Remaster)",
+      "title": "恋のお注射",
+      "source": "https://linkco.re/zXpTsra0?lang=ja",
+      "status": "merged",
+      "songId": "s-6bfcf706007e1dbe"
+    },
+    {
+      "raw": "でんぱはっく・れでぃお (Remaster)",
+      "title": "でんぱはっく・れでぃお",
+      "source": "https://linkco.re/zXpTsra0?lang=ja",
+      "status": "merged",
+      "songId": "s-9be19af235250447"
+    },
+    {
+      "raw": "チャイティーラテ",
+      "title": "チャイティーラテ",
+      "source": "https://linkco.re/zXpTsra0?lang=ja",
+      "status": "included",
+      "songId": "s-f2c4be5c2884fa8c"
+    },
+    {
+      "raw": "口下手ナイトメール",
+      "title": "口下手ナイトメール",
+      "source": "https://linkco.re/zXpTsra0?lang=ja",
+      "status": "included",
+      "songId": "s-d7b75bf6ef0e8993"
+    },
+    {
+      "raw": "恋のお注射",
+      "title": "恋のお注射",
+      "source": "https://linkco.re/g7AUCP2x?lang=ja",
+      "status": "included",
+      "songId": "s-6bfcf706007e1dbe"
+    },
+    {
+      "raw": "Win！うぃんたー！",
+      "title": "Win！うぃんたー！",
+      "source": "https://linkco.re/g7AUCP2x?lang=ja",
+      "status": "included",
+      "songId": "s-47427c04433a30a6"
+    },
+    {
+      "raw": "でんぱはっく・れでぃお",
+      "title": "でんぱはっく・れでぃお",
+      "source": "https://linkco.re/g7AUCP2x?lang=ja",
+      "status": "included",
+      "songId": "s-9be19af235250447"
+    },
+    {
+      "raw": "SUPER SHINE",
+      "title": "SUPER SHINE",
+      "source": "https://linkco.re/4xQ07Fg4?lang=ja",
+      "status": "included",
+      "songId": "s-3988a10b36fea022"
+    },
+    {
+      "raw": "疑似恋愛させたげるっ！",
+      "title": "疑似恋愛させたげるっ！",
+      "source": "https://linkco.re/4xQ07Fg4?lang=ja",
+      "status": "included",
+      "songId": "s-d2ea9e8320cdca9e"
+    },
+    {
+      "raw": "メルトロピカーナ",
+      "title": "メルトロピカーナ",
+      "source": "https://linkco.re/4xQ07Fg4?lang=ja",
+      "status": "included",
+      "songId": "s-a9dd4b9c4cd62468"
+    },
+    {
+      "raw": "おにぃちゃんス",
+      "title": "おにぃちゃんス",
+      "source": "https://linkco.re/4xQ07Fg4?lang=ja",
+      "status": "included",
+      "songId": "s-a2e4a85337e1fd82"
+    },
+    {
+      "raw": "本気恋-ガチでこい!!-",
+      "title": "本気恋-ガチでこい!!-",
+      "source": "https://linkco.re/4xQ07Fg4?lang=ja",
+      "status": "included",
+      "songId": "s-001686a22eb7f01e"
+    },
+    {
+      "raw": "BLUE ROCK",
+      "title": "BLUEROCK",
+      "source": "https://linkco.re/4xQ07Fg4?lang=ja",
+      "status": "merged",
+      "songId": "s-af5e01c8e687d709"
+    },
+    {
+      "raw": "五月病になれない恋をしたい",
+      "title": "五月病になれない恋をしたい",
+      "source": "https://linkco.re/4xQ07Fg4?lang=ja",
+      "status": "included",
+      "songId": "s-99981612994c6e32"
+    },
+    {
+      "raw": "乱舞LOんVE乱武",
+      "title": "乱舞LOんVE乱武",
+      "source": "https://linkco.re/4xQ07Fg4?lang=ja",
+      "status": "included",
+      "songId": "s-cfda5d99c705b64d"
+    },
+    {
+      "raw": "飲酒@セーラー服",
+      "title": "飲酒@セーラー服",
+      "source": "https://linkco.re/4xQ07Fg4?lang=ja",
+      "status": "included",
+      "songId": "s-d9e17999a36125d0"
+    },
+    {
+      "raw": "SE",
+      "title": "SE",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "excluded",
+      "reason": "SE・インスト・メドレー・メッセージ"
+    },
+    {
+      "raw": "超!!アンスリューム大サーカス",
+      "title": "超!!アンスリューム大サーカス",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "included",
+      "songId": "s-cdfdf8e4c7446248"
+    },
+    {
+      "raw": "すすれ!ちゅるちゅる家系らーめん",
+      "title": "すすれ！ちゅるちゅる家系らーめん",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "merged",
+      "songId": "s-0b692dda78bab494"
+    },
+    {
+      "raw": "かわゆすギルティ",
+      "title": "かわゆすギルティ",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "included",
+      "songId": "s-c9e2d31cb071b20e"
+    },
+    {
+      "raw": "おにぃちゃんス",
+      "title": "おにぃちゃんス",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "included",
+      "songId": "s-a2e4a85337e1fd82"
+    },
+    {
+      "raw": "かがやけ!サンシャインマスカット",
+      "title": "かがやけ!サンシャインマスカット",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "included",
+      "songId": "s-4adbc312cd9a9642"
+    },
+    {
+      "raw": "おどりゃんせ!",
+      "title": "おどりゃんせ!",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "included",
+      "songId": "s-ad313e93b4e4f8b1"
+    },
+    {
+      "raw": "だだだっ!!!!!!",
+      "title": "だだだっ!!!!",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "merged",
+      "songId": "s-5177938ad0576b72"
+    },
+    {
+      "raw": "まだまえるっ!!!!!!",
+      "title": "まだまえるっ!!!!!!",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "included",
+      "songId": "s-722715a37101c0f2"
+    },
+    {
+      "raw": "チャイティーラテ",
+      "title": "チャイティーラテ",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "included",
+      "songId": "s-f2c4be5c2884fa8c"
+    },
+    {
+      "raw": "レイニーダーリン",
+      "title": "レイニーダーリン",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "included",
+      "songId": "s-624211d56b5940fd"
+    },
+    {
+      "raw": "恋せよ!ぱらぱら半ちゃーはん",
+      "title": "恋せよ！ぱらぱら半ちゃーはん",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "merged",
+      "songId": "s-6365905af594a1b1"
+    },
+    {
+      "raw": "outro",
+      "title": "outro",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "excluded",
+      "reason": "SE・インスト・メドレー・メッセージ"
+    },
+    {
+      "raw": "はいどあんどしーく",
+      "title": "はいどあんどしーく！",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "merged",
+      "songId": "s-db168ca7e974b195"
+    },
+    {
+      "raw": "にゅーかおすっ!!!!!!",
+      "title": "にゅーかおすっ!!!!",
+      "source": "https://linkco.re/4FYDQPUV?lang=ja",
+      "status": "merged",
+      "songId": "s-af569d733386c29e"
+    },
+    {
+      "raw": "チャイティーラテ",
+      "title": "チャイティーラテ",
+      "source": "https://linkco.re/7QQ2TRzF?lang=ja",
+      "status": "included",
+      "songId": "s-f2c4be5c2884fa8c"
+    },
+    {
+      "raw": "レイニーダーリン",
+      "title": "レイニーダーリン",
+      "source": "https://linkco.re/7QQ2TRzF?lang=ja",
+      "status": "included",
+      "songId": "s-624211d56b5940fd"
+    },
+    {
+      "raw": "すすれ!ちゅるちゅる家系らーめん",
+      "title": "すすれ！ちゅるちゅる家系らーめん",
+      "source": "https://linkco.re/TQfRt7mX?lang=ja",
+      "status": "merged",
+      "songId": "s-0b692dda78bab494"
+    },
+    {
+      "raw": "恋せよ!ぱらぱら半ちゃーはん",
+      "title": "恋せよ！ぱらぱら半ちゃーはん",
+      "source": "https://linkco.re/TQfRt7mX?lang=ja",
+      "status": "merged",
+      "songId": "s-6365905af594a1b1"
+    },
+    {
+      "raw": "かがやけ!サンシャインマスカット",
+      "title": "かがやけ!サンシャインマスカット",
+      "source": "https://linkco.re/TQfRt7mX?lang=ja",
+      "status": "included",
+      "songId": "s-4adbc312cd9a9642"
+    },
+    {
+      "raw": "まだまえるっ!!!!!!",
+      "title": "まだまえるっ!!!!!!",
+      "source": "https://linkco.re/G7HAChem?lang=ja",
+      "status": "included",
+      "songId": "s-722715a37101c0f2"
+    },
+    {
+      "raw": "かわゆすギルティ",
+      "title": "かわゆすギルティ",
+      "source": "https://linkco.re/G7HAChem?lang=ja",
+      "status": "included",
+      "songId": "s-c9e2d31cb071b20e"
+    },
+    {
+      "raw": "超!!アンスリューム大サーカス",
+      "title": "超!!アンスリューム大サーカス",
+      "source": "https://linkco.re/G7HAChem?lang=ja",
+      "status": "included",
+      "songId": "s-cdfdf8e4c7446248"
+    },
+    {
+      "raw": "すすれ！ちゅるちゅる家系らーめん",
+      "title": "すすれ！ちゅるちゅる家系らーめん",
+      "source": "https://linkco.re/9Ha578d6?lang=ja",
+      "status": "included",
+      "songId": "s-0b692dda78bab494"
+    },
+    {
+      "raw": "恋せよ！ぱらぱら半ちゃーはん",
+      "title": "恋せよ！ぱらぱら半ちゃーはん",
+      "source": "https://linkco.re/9Ha578d6?lang=ja",
+      "status": "included",
+      "songId": "s-6365905af594a1b1"
+    },
+    {
+      "raw": "アンスリューム大サーカス",
+      "title": "アンスリューム大サーカス",
+      "source": "https://linkco.re/VH1gq7yy?lang=ja",
+      "status": "included",
+      "songId": "s-3b6d53dab49ed250"
+    },
+    {
+      "raw": "アンデッド♡ギャザリン",
+      "title": "アンデッド♡ギャザリン",
+      "source": "https://linkco.re/yrgpR4Nc?lang=ja",
+      "status": "included",
+      "songId": "s-5f001d8754f71a6e"
+    },
+    {
+      "raw": "一発逆転ダイスロール",
+      "title": "一発逆転ダイスロール",
+      "source": "https://linkco.re/4dGuayXs?lang=ja",
+      "status": "included",
+      "songId": "s-1201ea4c465b867b"
+    },
+    {
+      "raw": "かがやけ！サンシャインマスカット",
+      "title": "かがやけ！サンシャインマスカット",
+      "source": "https://linkco.re/9T2UtZzB?lang=ja",
+      "status": "merged",
+      "songId": "s-4adbc312cd9a9642"
+    },
+    {
+      "raw": "あんすではぴはぴ",
+      "title": "あんすではぴはぴ",
+      "source": "https://linkco.re/9T2UtZzB?lang=ja",
+      "status": "included",
+      "songId": "s-c9396993d5f88342"
+    },
+    {
+      "raw": "さくらブロードウェイ",
+      "title": "さくらブロードウェイ",
+      "source": "https://linkco.re/nUq2nUHy?lang=ja",
+      "status": "included",
+      "songId": "s-4521cffd57f92f17"
+    },
+    {
+      "raw": "ぺるぺっぽ",
+      "title": "ぺるぺっぽ",
+      "source": "https://linkco.re/nUq2nUHy?lang=ja",
+      "status": "included",
+      "songId": "s-e1113a95ed683d78"
+    },
+    {
+      "raw": "しゃぼん玉",
+      "title": "しゃぼん玉",
+      "source": "https://linkco.re/nUq2nUHy?lang=ja",
+      "status": "excluded",
+      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+    },
+    {
+      "raw": "検査",
+      "title": "検査",
+      "source": "https://linkco.re/nUq2nUHy?lang=ja",
+      "status": "excluded",
+      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+    },
+    {
+      "raw": "契れ！魔法少女☆ぽめらちゃん",
+      "title": "契れ！魔法少女☆ぽめらちゃん",
+      "source": "https://linkco.re/nUq2nUHy?lang=ja",
+      "status": "excluded",
+      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+    },
+    {
+      "raw": "BLACKOUT!!♡",
+      "title": "BLACKOUT!!♡",
+      "source": "https://linkco.re/nUq2nUHy?lang=ja",
+      "status": "excluded",
+      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+    },
+    {
+      "raw": "○×△□",
+      "title": "○×△□",
+      "source": "https://linkco.re/P3RuGN90?lang=ja",
+      "status": "included",
+      "songId": "s-fb9608b0466b07a0"
+    },
+    {
+      "raw": "○×△□ (Instrumental)",
+      "title": "○×△□ (Instrumental)",
+      "source": "https://linkco.re/P3RuGN90?lang=ja",
+      "status": "excluded",
+      "reason": "インスト・カラオケ・短縮版"
+    },
+    {
+      "raw": "にゅーかおすっ!!!!",
+      "title": "にゅーかおすっ!!!!",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "included",
+      "songId": "s-af569d733386c29e"
+    },
+    {
+      "raw": "アンスデーム",
+      "title": "アンスデーム",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "included",
+      "songId": "s-4f588d8951f43f61"
+    },
+    {
+      "raw": "恋せよ!ぱらぱら半ちゃーはん",
+      "title": "恋せよ！ぱらぱら半ちゃーはん",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "merged",
+      "songId": "s-6365905af594a1b1"
+    },
+    {
+      "raw": "でんわにでんわ",
+      "title": "でんわにでんわ",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "included",
+      "songId": "s-b37518a8d7c59727"
+    },
+    {
+      "raw": "ネバーランド",
+      "title": "ネバーランド",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "included",
+      "songId": "s-554e9a34d6d9d9b5"
+    },
+    {
+      "raw": "警察犬",
+      "title": "警察犬",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "included",
+      "songId": "s-1493097d9540aa5c"
+    },
+    {
+      "raw": "メランコリー",
+      "title": "メランコリー",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "included",
+      "songId": "s-3267d9a30b12bf59"
+    },
+    {
+      "raw": "ハピバス",
+      "title": "ハピバス",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "included",
+      "songId": "s-4911155b38199c0d"
+    },
+    {
+      "raw": "口下手ナイトメール",
+      "title": "口下手ナイトメール",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "included",
+      "songId": "s-d7b75bf6ef0e8993"
+    },
+    {
+      "raw": "今夜は世界のまんなかで",
+      "title": "今夜は世界のまんなかで",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "included",
+      "songId": "s-fb85c41edc65ad30"
+    },
+    {
+      "raw": "泥棒猫",
+      "title": "泥棒猫",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "included",
+      "songId": "s-40261a33c88c2548"
+    },
+    {
+      "raw": "ミーイズムがとまらない!",
+      "title": "ミーイズムがとまらない!",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "included",
+      "songId": "s-89891ec56d3adac9"
+    },
+    {
+      "raw": "だめだめ",
+      "title": "だめだめ",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "included",
+      "songId": "s-5cb84ccc5171b710"
+    },
+    {
+      "raw": "だだだっ!!!!",
+      "title": "だだだっ!!!!",
+      "source": "https://linkco.re/Ydx1YPFt?lang=ja",
+      "status": "included",
+      "songId": "s-5177938ad0576b72"
+    },
+    {
+      "raw": "恋せよ！ぱらぱら半ちゃーはん",
+      "title": "恋せよ！ぱらぱら半ちゃーはん",
+      "source": "https://linkco.re/fpBHB12M?lang=ja",
+      "status": "included",
+      "songId": "s-6365905af594a1b1"
+    },
+    {
+      "raw": "アンスデーム",
+      "title": "アンスデーム",
+      "source": "https://linkco.re/mBeeNyTS?lang=ja",
+      "status": "included",
+      "songId": "s-4f588d8951f43f61"
+    },
+    {
+      "raw": "和魂国才",
+      "title": "和魂国才",
+      "source": "https://linkco.re/mBeeNyTS?lang=ja",
+      "status": "included",
+      "songId": "s-2f7cee448a783166"
+    },
+    {
+      "raw": "ネバーランド",
+      "title": "ネバーランド",
+      "source": "https://linkco.re/mBeeNyTS?lang=ja",
+      "status": "included",
+      "songId": "s-554e9a34d6d9d9b5"
+    },
+    {
+      "raw": "ミーイズムがとまらない！",
+      "title": "ミーイズムがとまらない！",
+      "source": "https://linkco.re/mBeeNyTS?lang=ja",
+      "status": "merged",
+      "songId": "s-89891ec56d3adac9"
+    },
+    {
+      "raw": "メランコリー",
+      "title": "メランコリー",
+      "source": "https://linkco.re/mBeeNyTS?lang=ja",
+      "status": "included",
+      "songId": "s-3267d9a30b12bf59"
+    },
+    {
+      "raw": "口下手ナイトメール",
+      "title": "口下手ナイトメール",
+      "source": "https://linkco.re/mBeeNyTS?lang=ja",
+      "status": "included",
+      "songId": "s-d7b75bf6ef0e8993"
+    },
+    {
+      "raw": "だだだっ！！！！",
+      "title": "だだだっ!!!!",
+      "source": "https://linkco.re/YacmDy6p?lang=ja",
+      "status": "merged",
+      "songId": "s-5177938ad0576b72"
+    },
+    {
+      "raw": "はいどあんどしーく！",
+      "title": "はいどあんどしーく！",
+      "source": "https://linkco.re/YFfr3u7C?lang=ja",
+      "status": "included",
+      "songId": "s-db168ca7e974b195"
+    },
+    {
+      "raw": "神様共依存",
+      "title": "神様共依存",
+      "source": "https://linkco.re/Ve2vX87b?lang=ja",
+      "status": "included",
+      "songId": "s-42af53ecfb2042b2"
+    },
+    {
+      "raw": "泥棒猫",
+      "title": "泥棒猫",
+      "source": "https://linkco.re/Ve2vX87b?lang=ja",
+      "status": "included",
+      "songId": "s-40261a33c88c2548"
+    },
+    {
+      "raw": "神様共依存",
+      "title": "神様共依存",
+      "source": "https://music.apple.com/jp/album/%E7%A5%9E%E6%A7%98%E5%85%B1%E4%BE%9D%E5%AD%98/1456338278?i=1456338283&uo=4",
+      "status": "included",
+      "songId": "s-42af53ecfb2042b2"
+    },
+    {
+      "raw": "泥棒猫",
+      "title": "泥棒猫",
+      "source": "https://music.apple.com/jp/album/%E6%B3%A5%E6%A3%92%E7%8C%AB/1456338278?i=1456338292&uo=4",
+      "status": "included",
+      "songId": "s-40261a33c88c2548"
+    },
+    {
+      "raw": "はいどあんどしーく!",
+      "title": "はいどあんどしーく！",
+      "source": "https://music.apple.com/jp/album/%E3%81%AF%E3%81%84%E3%81%A9%E3%81%82%E3%82%93%E3%81%A9%E3%81%97%E3%83%BC%E3%81%8F/1472466244?i=1472466249&uo=4",
+      "status": "merged",
+      "songId": "s-db168ca7e974b195"
+    },
+    {
+      "raw": "にゅーかおすっ!!!!",
+      "title": "にゅーかおすっ!!!!",
+      "source": "https://music.apple.com/jp/album/%E3%81%AB%E3%82%85%E3%83%BC%E3%81%8B%E3%81%8A%E3%81%99%E3%81%A3/1535012198?i=1535012201&uo=4",
+      "status": "included",
+      "songId": "s-af569d733386c29e"
+    },
+    {
+      "raw": "アンスデーム",
+      "title": "アンスデーム",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%87%E3%83%BC%E3%83%A0/1535012198?i=1535012202&uo=4",
+      "status": "included",
+      "songId": "s-4f588d8951f43f61"
+    },
+    {
+      "raw": "恋せよ!ぱらぱら半ちゃーはん",
+      "title": "恋せよ！ぱらぱら半ちゃーはん",
+      "source": "https://music.apple.com/jp/album/%E6%81%8B%E3%81%9B%E3%82%88-%E3%81%B1%E3%82%89%E3%81%B1%E3%82%89%E5%8D%8A%E3%81%A1%E3%82%83%E3%83%BC%E3%81%AF%E3%82%93/1535012198?i=1535012204&uo=4",
+      "status": "merged",
+      "songId": "s-6365905af594a1b1"
+    },
+    {
+      "raw": "でんわにでんわ",
+      "title": "でんわにでんわ",
+      "source": "https://music.apple.com/jp/album/%E3%81%A7%E3%82%93%E3%82%8F%E3%81%AB%E3%81%A7%E3%82%93%E3%82%8F/1535012198?i=1535012208&uo=4",
+      "status": "included",
+      "songId": "s-b37518a8d7c59727"
+    },
+    {
+      "raw": "ネバーランド",
+      "title": "ネバーランド",
+      "source": "https://music.apple.com/jp/album/%E3%83%8D%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89/1535012198?i=1535012209&uo=4",
+      "status": "included",
+      "songId": "s-554e9a34d6d9d9b5"
+    },
+    {
+      "raw": "警察犬",
+      "title": "警察犬",
+      "source": "https://music.apple.com/jp/album/%E8%AD%A6%E5%AF%9F%E7%8A%AC/1535012198?i=1535012210&uo=4",
+      "status": "included",
+      "songId": "s-1493097d9540aa5c"
+    },
+    {
+      "raw": "メランコリー",
+      "title": "メランコリー",
+      "source": "https://music.apple.com/jp/album/%E3%83%A1%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%AA%E3%83%BC/1535012198?i=1535012212&uo=4",
+      "status": "included",
+      "songId": "s-3267d9a30b12bf59"
+    },
+    {
+      "raw": "ハピバス",
+      "title": "ハピバス",
+      "source": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%94%E3%83%90%E3%82%B9/1535012198?i=1535012213&uo=4",
+      "status": "included",
+      "songId": "s-4911155b38199c0d"
+    },
+    {
+      "raw": "口下手ナイトメール",
+      "title": "口下手ナイトメール",
+      "source": "https://music.apple.com/jp/album/%E5%8F%A3%E4%B8%8B%E6%89%8B%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A1%E3%83%BC%E3%83%AB/1535012198?i=1535012214&uo=4",
+      "status": "included",
+      "songId": "s-d7b75bf6ef0e8993"
+    },
+    {
+      "raw": "今夜は世界のまんなかで",
+      "title": "今夜は世界のまんなかで",
+      "source": "https://music.apple.com/jp/album/%E4%BB%8A%E5%A4%9C%E3%81%AF%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%BE%E3%82%93%E3%81%AA%E3%81%8B%E3%81%A7/1535012198?i=1535012215&uo=4",
+      "status": "included",
+      "songId": "s-fb85c41edc65ad30"
+    },
+    {
+      "raw": "泥棒猫",
+      "title": "泥棒猫",
+      "source": "https://music.apple.com/jp/album/%E6%B3%A5%E6%A3%92%E7%8C%AB/1535012198?i=1535012216&uo=4",
+      "status": "included",
+      "songId": "s-40261a33c88c2548"
+    },
+    {
+      "raw": "ミーイズムがとまらない!",
+      "title": "ミーイズムがとまらない!",
+      "source": "https://music.apple.com/jp/album/%E3%83%9F%E3%83%BC%E3%82%A4%E3%82%BA%E3%83%A0%E3%81%8C%E3%81%A8%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84/1535012198?i=1535012219&uo=4",
+      "status": "included",
+      "songId": "s-89891ec56d3adac9"
+    },
+    {
+      "raw": "だめだめ",
+      "title": "だめだめ",
+      "source": "https://music.apple.com/jp/album/%E3%81%A0%E3%82%81%E3%81%A0%E3%82%81/1535012198?i=1535012220&uo=4",
+      "status": "included",
+      "songId": "s-5cb84ccc5171b710"
+    },
+    {
+      "raw": "だだだっ!!!!",
+      "title": "だだだっ!!!!",
+      "source": "https://music.apple.com/jp/album/%E3%81%A0%E3%81%A0%E3%81%A0%E3%81%A3/1535012198?i=1535012221&uo=4",
+      "status": "included",
+      "songId": "s-5177938ad0576b72"
+    },
+    {
+      "raw": "アンスデーム",
+      "title": "アンスデーム",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%87%E3%83%BC%E3%83%A0/1502673928?i=1502673929&uo=4",
+      "status": "included",
+      "songId": "s-4f588d8951f43f61"
+    },
+    {
+      "raw": "和魂国才",
+      "title": "和魂国才",
+      "source": "https://music.apple.com/jp/album/%E5%92%8C%E9%AD%82%E5%9B%BD%E6%89%8D/1502673928?i=1502673932&uo=4",
+      "status": "included",
+      "songId": "s-2f7cee448a783166"
+    },
+    {
+      "raw": "ネバーランド",
+      "title": "ネバーランド",
+      "source": "https://music.apple.com/jp/album/%E3%83%8D%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89/1502673928?i=1502673935&uo=4",
+      "status": "included",
+      "songId": "s-554e9a34d6d9d9b5"
+    },
+    {
+      "raw": "ミーイズムがとまらない!",
+      "title": "ミーイズムがとまらない!",
+      "source": "https://music.apple.com/jp/album/%E3%83%9F%E3%83%BC%E3%82%A4%E3%82%BA%E3%83%A0%E3%81%8C%E3%81%A8%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84/1502673928?i=1502673996&uo=4",
+      "status": "included",
+      "songId": "s-89891ec56d3adac9"
+    },
+    {
+      "raw": "メランコリー",
+      "title": "メランコリー",
+      "source": "https://music.apple.com/jp/album/%E3%83%A1%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%AA%E3%83%BC/1502673928?i=1502673997&uo=4",
+      "status": "included",
+      "songId": "s-3267d9a30b12bf59"
+    },
+    {
+      "raw": "口下手ナイトメール",
+      "title": "口下手ナイトメール",
+      "source": "https://music.apple.com/jp/album/%E5%8F%A3%E4%B8%8B%E6%89%8B%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A1%E3%83%BC%E3%83%AB/1502673928?i=1502673999&uo=4",
+      "status": "included",
+      "songId": "s-d7b75bf6ef0e8993"
+    },
+    {
+      "raw": "かがやけ!サンシャインマスカット",
+      "title": "かがやけ!サンシャインマスカット",
+      "source": "https://music.apple.com/jp/album/%E3%81%8B%E3%81%8C%E3%82%84%E3%81%91-%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%83%E3%83%88/1577340191?i=1577340206&uo=4",
+      "status": "included",
+      "songId": "s-4adbc312cd9a9642"
+    },
+    {
+      "raw": "あんすではぴはぴ",
+      "title": "あんすではぴはぴ",
+      "source": "https://music.apple.com/jp/album/%E3%81%82%E3%82%93%E3%81%99%E3%81%A7%E3%81%AF%E3%81%B4%E3%81%AF%E3%81%B4/1577340191?i=1577340209&uo=4",
+      "status": "included",
+      "songId": "s-c9396993d5f88342"
+    },
+    {
+      "raw": "だだだっ!!!!",
+      "title": "だだだっ!!!!",
+      "source": "https://music.apple.com/jp/album/%E3%81%A0%E3%81%A0%E3%81%A0%E3%81%A3/1488572781?i=1488572782&uo=4",
+      "status": "included",
+      "songId": "s-5177938ad0576b72"
+    },
+    {
+      "raw": "さくらブロードウェイ",
+      "title": "さくらブロードウェイ",
+      "source": "https://music.apple.com/jp/album/%E3%81%95%E3%81%8F%E3%82%89%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4/1562871763?i=1562871764&uo=4",
+      "status": "included",
+      "songId": "s-4521cffd57f92f17"
+    },
+    {
+      "raw": "ぺるぺっぽ",
+      "title": "ぺるぺっぽ",
+      "source": "https://music.apple.com/jp/album/%E3%81%BA%E3%82%8B%E3%81%BA%E3%81%A3%E3%81%BD/1562871763?i=1562871765&uo=4",
+      "status": "included",
+      "songId": "s-e1113a95ed683d78"
+    },
+    {
+      "raw": "しゃぼん玉",
+      "title": "しゃぼん玉",
+      "source": "https://music.apple.com/jp/album/%E3%81%97%E3%82%83%E3%81%BC%E3%82%93%E7%8E%89/1562871763?i=1562871767&uo=4",
+      "status": "excluded",
+      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+    },
+    {
+      "raw": "検査",
+      "title": "検査",
+      "source": "https://music.apple.com/jp/album/%E6%A4%9C%E6%9F%BB/1562871763?i=1562871768&uo=4",
+      "status": "excluded",
+      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+    },
+    {
+      "raw": "契れ!魔法少女☆ぽめらちゃん",
+      "title": "契れ!魔法少女☆ぽめらちゃん",
+      "source": "https://music.apple.com/jp/album/%E5%A5%91%E3%82%8C-%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3-%E3%81%BD%E3%82%81%E3%82%89%E3%81%A1%E3%82%83%E3%82%93/1562871763?i=1562871770&uo=4",
+      "status": "excluded",
+      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+    },
+    {
+      "raw": "BLACKOUT!!♡",
+      "title": "BLACKOUT!!♡",
+      "source": "https://music.apple.com/jp/album/blackout/1562871763?i=1562871772&uo=4",
+      "status": "excluded",
+      "reason": "メンバー個人ソロ（公式動画の明記により確認）"
+    },
+    {
+      "raw": "SE",
+      "title": "SE",
+      "source": "https://music.apple.com/jp/album/se/1652300474?i=1652300656&uo=4",
+      "status": "excluded",
+      "reason": "SE・インスト・メドレー・メッセージ"
+    },
+    {
+      "raw": "超!!アンスリューム大サーカス",
+      "title": "超!!アンスリューム大サーカス",
+      "source": "https://music.apple.com/jp/album/%E8%B6%85-%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E5%A4%A7%E3%82%B5%E3%83%BC%E3%82%AB%E3%82%B9/1652300474?i=1652300661&uo=4",
+      "status": "included",
+      "songId": "s-cdfdf8e4c7446248"
+    },
+    {
+      "raw": "すすれ!ちゅるちゅる家系らーめん",
+      "title": "すすれ！ちゅるちゅる家系らーめん",
+      "source": "https://music.apple.com/jp/album/%E3%81%99%E3%81%99%E3%82%8C-%E3%81%A1%E3%82%85%E3%82%8B%E3%81%A1%E3%82%85%E3%82%8B%E5%AE%B6%E7%B3%BB%E3%82%89%E3%83%BC%E3%82%81%E3%82%93/1652300474?i=1652300663&uo=4",
+      "status": "merged",
+      "songId": "s-0b692dda78bab494"
+    },
+    {
+      "raw": "かわゆすギルティ",
+      "title": "かわゆすギルティ",
+      "source": "https://music.apple.com/jp/album/%E3%81%8B%E3%82%8F%E3%82%86%E3%81%99%E3%82%AE%E3%83%AB%E3%83%86%E3%82%A3/1652300474?i=1652300665&uo=4",
+      "status": "included",
+      "songId": "s-c9e2d31cb071b20e"
+    },
+    {
+      "raw": "おにぃちゃんス",
+      "title": "おにぃちゃんス",
+      "source": "https://music.apple.com/jp/album/%E3%81%8A%E3%81%AB%E3%81%83%E3%81%A1%E3%82%83%E3%82%93%E3%82%B9/1652300474?i=1652300668&uo=4",
+      "status": "included",
+      "songId": "s-a2e4a85337e1fd82"
+    },
+    {
+      "raw": "かがやけ!サンシャインマスカット",
+      "title": "かがやけ!サンシャインマスカット",
+      "source": "https://music.apple.com/jp/album/%E3%81%8B%E3%81%8C%E3%82%84%E3%81%91-%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%83%E3%83%88/1652300474?i=1652300671&uo=4",
+      "status": "included",
+      "songId": "s-4adbc312cd9a9642"
+    },
+    {
+      "raw": "おどりゃんせ!",
+      "title": "おどりゃんせ!",
+      "source": "https://music.apple.com/jp/album/%E3%81%8A%E3%81%A9%E3%82%8A%E3%82%83%E3%82%93%E3%81%9B/1652300474?i=1652300672&uo=4",
+      "status": "included",
+      "songId": "s-ad313e93b4e4f8b1"
+    },
+    {
+      "raw": "だだだっ!!!!!!",
+      "title": "だだだっ!!!!",
+      "source": "https://music.apple.com/jp/album/%E3%81%A0%E3%81%A0%E3%81%A0%E3%81%A3/1652300474?i=1652300675&uo=4",
+      "status": "merged",
+      "songId": "s-5177938ad0576b72"
+    },
+    {
+      "raw": "まだまえるっ!!!!!!",
+      "title": "まだまえるっ!!!!!!",
+      "source": "https://music.apple.com/jp/album/%E3%81%BE%E3%81%A0%E3%81%BE%E3%81%88%E3%82%8B%E3%81%A3/1652300474?i=1652300682&uo=4",
+      "status": "included",
+      "songId": "s-722715a37101c0f2"
+    },
+    {
+      "raw": "チャイティーラテ",
+      "title": "チャイティーラテ",
+      "source": "https://music.apple.com/jp/album/%E3%83%81%E3%83%A3%E3%82%A4%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A9%E3%83%86/1652300474?i=1652300685&uo=4",
+      "status": "included",
+      "songId": "s-f2c4be5c2884fa8c"
+    },
+    {
+      "raw": "レイニーダーリン",
+      "title": "レイニーダーリン",
+      "source": "https://music.apple.com/jp/album/%E3%83%AC%E3%82%A4%E3%83%8B%E3%83%BC%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3/1652300474?i=1652300846&uo=4",
+      "status": "included",
+      "songId": "s-624211d56b5940fd"
+    },
+    {
+      "raw": "恋せよ!ぱらぱら半ちゃーはん",
+      "title": "恋せよ！ぱらぱら半ちゃーはん",
+      "source": "https://music.apple.com/jp/album/%E6%81%8B%E3%81%9B%E3%82%88-%E3%81%B1%E3%82%89%E3%81%B1%E3%82%89%E5%8D%8A%E3%81%A1%E3%82%83%E3%83%BC%E3%81%AF%E3%82%93/1652300474?i=1652300849&uo=4",
+      "status": "merged",
+      "songId": "s-6365905af594a1b1"
+    },
+    {
+      "raw": "outro",
+      "title": "outro",
+      "source": "https://music.apple.com/jp/album/outro/1652300474?i=1652300853&uo=4",
+      "status": "excluded",
+      "reason": "SE・インスト・メドレー・メッセージ"
+    },
+    {
+      "raw": "はいどあんどしーく",
+      "title": "はいどあんどしーく！",
+      "source": "https://music.apple.com/jp/album/%E3%81%AF%E3%81%84%E3%81%A9%E3%81%82%E3%82%93%E3%81%A9%E3%81%97%E3%83%BC%E3%81%8F/1652300474?i=1652300856&uo=4",
+      "status": "merged",
+      "songId": "s-db168ca7e974b195"
+    },
+    {
+      "raw": "にゅーかおすっ!!!!!!",
+      "title": "にゅーかおすっ!!!!",
+      "source": "https://music.apple.com/jp/album/%E3%81%AB%E3%82%85%E3%83%BC%E3%81%8B%E3%81%8A%E3%81%99%E3%81%A3/1652300474?i=1652300863&uo=4",
+      "status": "merged",
+      "songId": "s-af569d733386c29e"
+    },
+    {
+      "raw": "SUPER SHINE",
+      "title": "SUPER SHINE",
+      "source": "https://music.apple.com/jp/album/super-shine/1705593821?i=1705593822&uo=4",
+      "status": "included",
+      "songId": "s-3988a10b36fea022"
+    },
+    {
+      "raw": "疑似恋愛させたげるっ!",
+      "title": "疑似恋愛させたげるっ!",
+      "source": "https://music.apple.com/jp/album/%E7%96%91%E4%BC%BC%E6%81%8B%E6%84%9B%E3%81%95%E3%81%9B%E3%81%9F%E3%81%92%E3%82%8B%E3%81%A3/1705593821?i=1705593824&uo=4",
+      "status": "merged",
+      "songId": "s-d2ea9e8320cdca9e"
+    },
+    {
+      "raw": "メルトロピカーナ",
+      "title": "メルトロピカーナ",
+      "source": "https://music.apple.com/jp/album/%E3%83%A1%E3%83%AB%E3%83%88%E3%83%AD%E3%83%94%E3%82%AB%E3%83%BC%E3%83%8A/1705593821?i=1705593825&uo=4",
+      "status": "included",
+      "songId": "s-a9dd4b9c4cd62468"
+    },
+    {
+      "raw": "おにぃちゃんス",
+      "title": "おにぃちゃんス",
+      "source": "https://music.apple.com/jp/album/%E3%81%8A%E3%81%AB%E3%81%83%E3%81%A1%E3%82%83%E3%82%93%E3%82%B9/1705593821?i=1705594097&uo=4",
+      "status": "included",
+      "songId": "s-a2e4a85337e1fd82"
+    },
+    {
+      "raw": "本気恋-ガチでこい!!-",
+      "title": "本気恋-ガチでこい!!-",
+      "source": "https://music.apple.com/jp/album/%E6%9C%AC%E6%B0%97%E6%81%8B-%E3%82%AC%E3%83%81%E3%81%A7%E3%81%93%E3%81%84/1705593821?i=1705594098&uo=4",
+      "status": "included",
+      "songId": "s-001686a22eb7f01e"
+    },
+    {
+      "raw": "BLUE ROCK",
+      "title": "BLUEROCK",
+      "source": "https://music.apple.com/jp/album/blue-rock/1705593821?i=1705594101&uo=4",
+      "status": "merged",
+      "songId": "s-af5e01c8e687d709"
+    },
+    {
+      "raw": "五月病になれない恋をしたい",
+      "title": "五月病になれない恋をしたい",
+      "source": "https://music.apple.com/jp/album/%E4%BA%94%E6%9C%88%E7%97%85%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%AA%E3%81%84%E6%81%8B%E3%82%92%E3%81%97%E3%81%9F%E3%81%84/1705593821?i=1705594102&uo=4",
+      "status": "included",
+      "songId": "s-99981612994c6e32"
+    },
+    {
+      "raw": "乱舞LOんVE乱武",
+      "title": "乱舞LOんVE乱武",
+      "source": "https://music.apple.com/jp/album/%E4%B9%B1%E8%88%9Elo%E3%82%93ve%E4%B9%B1%E6%AD%A6/1705593821?i=1705594103&uo=4",
+      "status": "included",
+      "songId": "s-cfda5d99c705b64d"
+    },
+    {
+      "raw": "飲酒@セーラー服",
+      "title": "飲酒@セーラー服",
+      "source": "https://music.apple.com/jp/album/%E9%A3%B2%E9%85%92-%E3%82%BB%E3%83%BC%E3%83%A9%E3%83%BC%E6%9C%8D/1705593821?i=1705594104&uo=4",
+      "status": "included",
+      "songId": "s-d9e17999a36125d0"
+    },
+    {
+      "raw": "まだまえるっ!!!!!!",
+      "title": "まだまえるっ!!!!!!",
+      "source": "https://music.apple.com/jp/album/%E3%81%BE%E3%81%A0%E3%81%BE%E3%81%88%E3%82%8B%E3%81%A3/1640394632?i=1640394635&uo=4",
+      "status": "included",
+      "songId": "s-722715a37101c0f2"
+    },
+    {
+      "raw": "かわゆすギルティ",
+      "title": "かわゆすギルティ",
+      "source": "https://music.apple.com/jp/album/%E3%81%8B%E3%82%8F%E3%82%86%E3%81%99%E3%82%AE%E3%83%AB%E3%83%86%E3%82%A3/1640394632?i=1640394640&uo=4",
+      "status": "included",
+      "songId": "s-c9e2d31cb071b20e"
+    },
+    {
+      "raw": "超!!アンスリューム大サーカス",
+      "title": "超!!アンスリューム大サーカス",
+      "source": "https://music.apple.com/jp/album/%E8%B6%85-%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E5%A4%A7%E3%82%B5%E3%83%BC%E3%82%AB%E3%82%B9/1640394632?i=1640394645&uo=4",
+      "status": "included",
+      "songId": "s-cdfdf8e4c7446248"
+    },
+    {
+      "raw": "恋せよ!ぱらぱら半ちゃーはん",
+      "title": "恋せよ！ぱらぱら半ちゃーはん",
+      "source": "https://music.apple.com/jp/album/%E6%81%8B%E3%81%9B%E3%82%88-%E3%81%B1%E3%82%89%E3%81%B1%E3%82%89%E5%8D%8A%E3%81%A1%E3%82%83%E3%83%BC%E3%81%AF%E3%82%93/1527553144?i=1527553270&uo=4",
+      "status": "merged",
+      "songId": "s-6365905af594a1b1"
+    },
+    {
+      "raw": "すすれ!ちゅるちゅる家系らーめん",
+      "title": "すすれ！ちゅるちゅる家系らーめん",
+      "source": "https://music.apple.com/jp/album/%E3%81%99%E3%81%99%E3%82%8C-%E3%81%A1%E3%82%85%E3%82%8B%E3%81%A1%E3%82%85%E3%82%8B%E5%AE%B6%E7%B3%BB%E3%82%89%E3%83%BC%E3%82%81%E3%82%93/1625822972?i=1625822975&uo=4",
+      "status": "merged",
+      "songId": "s-0b692dda78bab494"
+    },
+    {
+      "raw": "恋せよ!ぱらぱら半ちゃーはん",
+      "title": "恋せよ！ぱらぱら半ちゃーはん",
+      "source": "https://music.apple.com/jp/album/%E6%81%8B%E3%81%9B%E3%82%88-%E3%81%B1%E3%82%89%E3%81%B1%E3%82%89%E5%8D%8A%E3%81%A1%E3%82%83%E3%83%BC%E3%81%AF%E3%82%93/1625822972?i=1625823219&uo=4",
+      "status": "merged",
+      "songId": "s-6365905af594a1b1"
+    },
+    {
+      "raw": "一発逆転ダイスロール",
+      "title": "一発逆転ダイスロール",
+      "source": "https://music.apple.com/jp/album/%E4%B8%80%E7%99%BA%E9%80%86%E8%BB%A2%E3%83%80%E3%82%A4%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%AB/1584328387?i=1584328391&uo=4",
+      "status": "included",
+      "songId": "s-1201ea4c465b867b"
+    },
+    {
+      "raw": "アンデッド♡ギャザリン",
+      "title": "アンデッド♡ギャザリン",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%83%89-%E3%82%AE%E3%83%A3%E3%82%B6%E3%83%AA%E3%83%B3/1589778603?i=1589778879&uo=4",
+      "status": "included",
+      "songId": "s-5f001d8754f71a6e"
+    },
+    {
+      "raw": "チャイティーラテ",
+      "title": "チャイティーラテ",
+      "source": "https://music.apple.com/jp/album/%E3%83%81%E3%83%A3%E3%82%A4%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A9%E3%83%86/1652026021?i=1652026027&uo=4",
+      "status": "included",
+      "songId": "s-f2c4be5c2884fa8c"
+    },
+    {
+      "raw": "レイニーダーリン",
+      "title": "レイニーダーリン",
+      "source": "https://music.apple.com/jp/album/%E3%83%AC%E3%82%A4%E3%83%8B%E3%83%BC%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3/1652026021?i=1652026031&uo=4",
+      "status": "included",
+      "songId": "s-624211d56b5940fd"
+    },
+    {
+      "raw": "とらべりゅーみん",
+      "title": "とらべりゅーみん",
+      "source": "https://music.apple.com/jp/album/%E3%81%A8%E3%82%89%E3%81%B9%E3%82%8A%E3%82%85%E3%83%BC%E3%81%BF%E3%82%93/1769395675?i=1769395689&uo=4",
+      "status": "included",
+      "songId": "s-9b051c76582cbefe"
+    },
+    {
+      "raw": "どたばたんきゅー!",
+      "title": "どたばたんきゅー!",
+      "source": "https://music.apple.com/jp/album/%E3%81%A9%E3%81%9F%E3%81%B0%E3%81%9F%E3%82%93%E3%81%8D%E3%82%85%E3%83%BC/1769395675?i=1769395894&uo=4",
+      "status": "merged",
+      "songId": "s-272aa9dfa5bc5d58"
+    },
+    {
+      "raw": "恋のお注射 (Remaster)",
+      "title": "恋のお注射",
+      "source": "https://music.apple.com/jp/album/%E6%81%8B%E3%81%AE%E3%81%8A%E6%B3%A8%E5%B0%84-remaster/1769395675?i=1769395906&uo=4",
+      "status": "merged",
+      "songId": "s-6bfcf706007e1dbe"
+    },
+    {
+      "raw": "でんぱはっく・れでぃお (Remaster)",
+      "title": "でんぱはっく・れでぃお",
+      "source": "https://music.apple.com/jp/album/%E3%81%A7%E3%82%93%E3%81%B1%E3%81%AF%E3%81%A3%E3%81%8F-%E3%82%8C%E3%81%A7%E3%81%83%E3%81%8A-remaster/1769395675?i=1769395912&uo=4",
+      "status": "merged",
+      "songId": "s-9be19af235250447"
+    },
+    {
+      "raw": "チャイティーラテ",
+      "title": "チャイティーラテ",
+      "source": "https://music.apple.com/jp/album/%E3%83%81%E3%83%A3%E3%82%A4%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A9%E3%83%86/1769395675?i=1769395918&uo=4",
+      "status": "included",
+      "songId": "s-f2c4be5c2884fa8c"
+    },
+    {
+      "raw": "口下手ナイトメール",
+      "title": "口下手ナイトメール",
+      "source": "https://music.apple.com/jp/album/%E5%8F%A3%E4%B8%8B%E6%89%8B%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A1%E3%83%BC%E3%83%AB/1769395675?i=1769395926&uo=4",
+      "status": "included",
+      "songId": "s-d7b75bf6ef0e8993"
+    },
+    {
+      "raw": "アンスリューム大サーカス",
+      "title": "アンスリューム大サーカス",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E5%A4%A7%E3%82%B5%E3%83%BC%E3%82%AB%E3%82%B9/1608146122?i=1608146127&uo=4",
+      "status": "included",
+      "songId": "s-3b6d53dab49ed250"
+    },
+    {
+      "raw": "恋のお注射",
+      "title": "恋のお注射",
+      "source": "https://music.apple.com/jp/album/%E6%81%8B%E3%81%AE%E3%81%8A%E6%B3%A8%E5%B0%84/1739891122?i=1739891128&uo=4",
+      "status": "included",
+      "songId": "s-6bfcf706007e1dbe"
+    },
+    {
+      "raw": "Win!うぃんたー!",
+      "title": "Win!うぃんたー!",
+      "source": "https://music.apple.com/jp/album/win-%E3%81%86%E3%81%83%E3%82%93%E3%81%9F%E3%83%BC/1739891122?i=1739891135&uo=4",
+      "status": "merged",
+      "songId": "s-47427c04433a30a6"
+    },
+    {
+      "raw": "でんぱはっく・れでぃお",
+      "title": "でんぱはっく・れでぃお",
+      "source": "https://music.apple.com/jp/album/%E3%81%A7%E3%82%93%E3%81%B1%E3%81%AF%E3%81%A3%E3%81%8F-%E3%82%8C%E3%81%A7%E3%81%83%E3%81%8A/1739891122?i=1739891138&uo=4",
+      "status": "included",
+      "songId": "s-9be19af235250447"
+    },
+    {
+      "raw": "すすれ!ちゅるちゅる家系らーめん",
+      "title": "すすれ！ちゅるちゅる家系らーめん",
+      "source": "https://music.apple.com/jp/album/%E3%81%99%E3%81%99%E3%82%8C-%E3%81%A1%E3%82%85%E3%82%8B%E3%81%A1%E3%82%85%E3%82%8B%E5%AE%B6%E7%B3%BB%E3%82%89%E3%83%BC%E3%82%81%E3%82%93/1642579204?i=1642579504&uo=4",
+      "status": "merged",
+      "songId": "s-0b692dda78bab494"
+    },
+    {
+      "raw": "恋せよ!ぱらぱら半ちゃーはん",
+      "title": "恋せよ！ぱらぱら半ちゃーはん",
+      "source": "https://music.apple.com/jp/album/%E6%81%8B%E3%81%9B%E3%82%88-%E3%81%B1%E3%82%89%E3%81%B1%E3%82%89%E5%8D%8A%E3%81%A1%E3%82%83%E3%83%BC%E3%81%AF%E3%82%93/1642579204?i=1642579507&uo=4",
+      "status": "merged",
+      "songId": "s-6365905af594a1b1"
+    },
+    {
+      "raw": "かがやけ!サンシャインマスカット",
+      "title": "かがやけ!サンシャインマスカット",
+      "source": "https://music.apple.com/jp/album/%E3%81%8B%E3%81%8C%E3%82%84%E3%81%91-%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%83%E3%83%88/1642579204?i=1642579515&uo=4",
+      "status": "included",
+      "songId": "s-4adbc312cd9a9642"
+    },
+    {
+      "raw": "Magic shower",
+      "title": "Magic shower",
+      "source": "https://music.apple.com/jp/album/magic-shower/1822112622?i=1822112623&uo=4",
+      "status": "included",
+      "songId": "s-8f78f0ce198ed77b"
+    },
+    {
+      "raw": "○×△□",
+      "title": "○×△□",
+      "source": "https://music.apple.com/jp/album/1551272127?i=1551272404&uo=4",
+      "status": "included",
+      "songId": "s-fb9608b0466b07a0"
+    },
+    {
+      "raw": "○×△□ (Instrumental)",
+      "title": "○×△□ (Instrumental)",
+      "source": "https://music.apple.com/jp/album/instrumental/1551272127?i=1551272405&uo=4",
+      "status": "excluded",
+      "reason": "インスト・カラオケ・短縮版"
+    },
+    {
+      "raw": "OVER DRIVE",
+      "title": "OVER DRIVE",
+      "source": "https://music.apple.com/jp/album/over-drive/1893786389?i=1893786390&uo=4",
+      "status": "included",
+      "songId": "s-f6cfe810daf05eb0"
+    },
+    {
+      "raw": "光彩奏歌",
+      "title": "光彩奏歌",
+      "source": "https://music.apple.com/jp/album/%E5%85%89%E5%BD%A9%E5%A5%8F%E6%AD%8C/1850980188?i=1850980191&uo=4",
+      "status": "included",
+      "songId": "s-f02cf3c592ab958a"
+    },
+    {
+      "raw": "Re:start Live",
+      "title": "Re:start Live",
+      "source": "https://music.apple.com/jp/album/re-start-live/1850980188?i=1850980195&uo=4",
+      "status": "included",
+      "songId": "s-76883dc857690a0b"
+    },
+    {
+      "raw": "ふわふわ?わんにゃん?ダービー",
+      "title": "ふわふわ?わんにゃん?ダービー",
+      "source": "https://music.apple.com/jp/album/%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F-%E3%82%8F%E3%82%93%E3%81%AB%E3%82%83%E3%82%93-%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC/1850980188?i=1850980201&uo=4",
+      "status": "merged",
+      "songId": "s-fc84ad24c202e83d"
+    },
+    {
+      "raw": "ダイナマイトぺろり",
+      "title": "ダイナマイトぺろり",
+      "source": "https://music.apple.com/jp/album/%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9E%E3%82%A4%E3%83%88%E3%81%BA%E3%82%8D%E3%82%8A/1850980188?i=1850980204&uo=4",
+      "status": "included",
+      "songId": "s-5f2c5c62b456a2c3"
+    },
+    {
+      "raw": "焦がせ!!アゲアゲ☆フライドポテト",
+      "title": "焦がせ!!アゲアゲ☆フライドポテト",
+      "source": "https://music.apple.com/jp/album/%E7%84%A6%E3%81%8C%E3%81%9B-%E3%82%A2%E3%82%B2%E3%82%A2%E3%82%B2-%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%9D%E3%83%86%E3%83%88/1850980188?i=1850980205&uo=4",
+      "status": "included",
+      "songId": "s-222640e8e7942ac3"
+    },
+    {
+      "raw": "世界を回せ!アンスリューム!",
+      "title": "世界を回せ!アンスリューム!",
+      "source": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%82%92%E5%9B%9E%E3%81%9B-%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0/1850980188?i=1850980480&uo=4",
+      "status": "included",
+      "songId": "s-12e29bf963d350b9"
+    },
+    {
+      "raw": "Magic shower",
+      "title": "Magic shower",
+      "source": "https://music.apple.com/jp/album/magic-shower/1850980188?i=1850980481&uo=4",
+      "status": "included",
+      "songId": "s-8f78f0ce198ed77b"
+    },
+    {
+      "raw": "is",
+      "title": "is",
+      "source": "https://music.apple.com/jp/album/is/1862331893?i=1862331894&uo=4",
+      "status": "included",
+      "songId": "s-fa51fd49abf67705"
+    },
+    {
+      "raw": "光彩奏歌",
+      "title": "光彩奏歌",
+      "source": "https://music.apple.com/jp/album/%E5%85%89%E5%BD%A9%E5%A5%8F%E6%AD%8C/1849814676?i=1849814841&uo=4",
+      "status": "included",
+      "songId": "s-f02cf3c592ab958a"
+    },
+    {
+      "raw": "Overture",
+      "title": "Overture",
+      "source": "https://music.apple.com/jp/album/overture/1850980972?i=1850980975&uo=4",
+      "status": "excluded",
+      "reason": "SE・インスト・メドレー・メッセージ"
+    },
+    {
+      "raw": "はいどあんどしーく! (2025ver.)",
+      "title": "はいどあんどしーく！",
+      "source": "https://music.apple.com/jp/album/%E3%81%AF%E3%81%84%E3%81%A9%E3%81%82%E3%82%93%E3%81%A9%E3%81%97%E3%83%BC%E3%81%8F-2025ver/1850980972?i=1850980981&uo=4",
+      "status": "merged",
+      "songId": "s-db168ca7e974b195"
+    },
+    {
+      "raw": "だだだっ!!!!!!!",
+      "title": "だだだっ!!!!",
+      "source": "https://music.apple.com/jp/album/%E3%81%A0%E3%81%A0%E3%81%A0%E3%81%A3/1850980972?i=1850980985&uo=4",
+      "status": "merged",
+      "songId": "s-5177938ad0576b72"
+    },
+    {
+      "raw": "今夜は世界のまんなかで",
+      "title": "今夜は世界のまんなかで",
+      "source": "https://music.apple.com/jp/album/%E4%BB%8A%E5%A4%9C%E3%81%AF%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%BE%E3%82%93%E3%81%AA%E3%81%8B%E3%81%A7/1850980972?i=1850981326&uo=4",
+      "status": "included",
+      "songId": "s-fb85c41edc65ad30"
+    },
+    {
+      "raw": "すすれ!!ちゅるちゅる家系らーめん",
+      "title": "すすれ！ちゅるちゅる家系らーめん",
+      "source": "https://music.apple.com/jp/album/%E3%81%99%E3%81%99%E3%82%8C-%E3%81%A1%E3%82%85%E3%82%8B%E3%81%A1%E3%82%85%E3%82%8B%E5%AE%B6%E7%B3%BB%E3%82%89%E3%83%BC%E3%82%81%E3%82%93/1850980972?i=1850981332&uo=4",
+      "status": "merged",
+      "songId": "s-0b692dda78bab494"
+    },
+    {
+      "raw": "警察犬",
+      "title": "警察犬",
+      "source": "https://music.apple.com/jp/album/%E8%AD%A6%E5%AF%9F%E7%8A%AC/1850980972?i=1850981339&uo=4",
+      "status": "included",
+      "songId": "s-1493097d9540aa5c"
+    },
+    {
+      "raw": "にゅーかおすっ!!!!!!!!",
+      "title": "にゅーかおすっ!!!!",
+      "source": "https://music.apple.com/jp/album/%E3%81%AB%E3%82%85%E3%83%BC%E3%81%8B%E3%81%8A%E3%81%99%E3%81%A3/1850980972?i=1850981341&uo=4",
+      "status": "merged",
+      "songId": "s-af569d733386c29e"
+    },
+    {
+      "raw": "焦がせ!!アゲアゲ☆フライドポテト",
+      "title": "焦がせ!!アゲアゲ☆フライドポテト",
+      "source": "https://music.apple.com/jp/album/%E7%84%A6%E3%81%8C%E3%81%9B-%E3%82%A2%E3%82%B2%E3%82%A2%E3%82%B2-%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%9D%E3%83%86%E3%83%88/1810675912?i=1810675916&uo=4",
+      "status": "included",
+      "songId": "s-222640e8e7942ac3"
+    },
+    {
+      "raw": "Stay Real",
+      "title": "Stay Real",
+      "source": "https://music.apple.com/jp/album/stay-real/1878898117?i=1878898124&uo=4",
+      "status": "included",
+      "songId": "s-4ba3b14fab315bde"
+    },
+    {
+      "raw": "ダイナマイトぺろり",
+      "title": "ダイナマイトぺろり",
+      "source": "https://music.apple.com/jp/album/%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9E%E3%82%A4%E3%83%88%E3%81%BA%E3%82%8D%E3%82%8A/1816838330?i=1816838332&uo=4",
+      "status": "included",
+      "songId": "s-5f2c5c62b456a2c3"
+    },
+    {
+      "raw": "Re:Start Live",
+      "title": "Re:Start Live",
+      "source": "https://music.apple.com/jp/album/re-start-live/1847935903?i=1847935912&uo=4",
+      "status": "merged",
+      "songId": "s-76883dc857690a0b"
+    },
+    {
+      "raw": "シルエットノーバー",
+      "title": "シルエットノーバー",
+      "source": "https://music.apple.com/jp/album/%E3%82%B7%E3%83%AB%E3%82%A8%E3%83%83%E3%83%88%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC/1867063191?i=1867063196&uo=4",
+      "status": "included",
+      "songId": "s-17d6e1f3b15b7b51"
+    },
+    {
+      "raw": "Always Arise",
+      "title": "Always Arise",
+      "source": "https://music.apple.com/jp/album/always-arise/6773551663?i=6773551666&uo=4",
+      "status": "included",
+      "songId": "s-b34f9e5b245cd74d"
+    },
+    {
+      "raw": "Anthurium",
+      "source": "https://music.apple.com/jp/album/anthurium/1451239650?uo=4",
+      "status": "excluded",
+      "reason": "同名のISLA長尺作品。対象アイドルの作品として確認できない",
+      "evidence": "https://www.tunecore.co.jp/artists/ANTHURIUM.OFFICIAL"
+    },
+    {
+      "raw": "アンスリューム大サーカス",
+      "title": "アンスリューム大サーカス",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E5%A4%A7%E3%82%B5%E3%83%BC%E3%82%AB%E3%82%B9/6768876131?i=6768876132&uo=4",
+      "status": "included",
+      "songId": "s-3b6d53dab49ed250"
+    },
+    {
+      "raw": "あんすではぴはぴ",
+      "title": "あんすではぴはぴ",
+      "source": "https://music.apple.com/jp/album/%E3%81%82%E3%82%93%E3%81%99%E3%81%A7%E3%81%AF%E3%81%B4%E3%81%AF%E3%81%B4/6768876131?i=6768876463&uo=4",
+      "status": "included",
+      "songId": "s-c9396993d5f88342"
+    },
+    {
+      "raw": "◯×△□",
+      "title": "○×△□",
+      "source": "https://music.apple.com/jp/album/6768876131?i=6768876465&uo=4",
+      "status": "merged",
+      "songId": "s-fb9608b0466b07a0"
+    },
+    {
+      "raw": "おどりゃんせ!",
+      "title": "おどりゃんせ!",
+      "source": "https://music.apple.com/jp/album/%E3%81%8A%E3%81%A9%E3%82%8A%E3%82%83%E3%82%93%E3%81%9B/6768876131?i=6768876466&uo=4",
+      "status": "included",
+      "songId": "s-ad313e93b4e4f8b1"
+    },
+    {
+      "raw": "ぺるぺっぽ",
+      "title": "ぺるぺっぽ",
+      "source": "https://music.apple.com/jp/album/%E3%81%BA%E3%82%8B%E3%81%BA%E3%81%A3%E3%81%BD/6768876131?i=6768876467&uo=4",
+      "status": "included",
+      "songId": "s-e1113a95ed683d78"
+    },
+    {
+      "raw": "一発逆転ダイスロール",
+      "title": "一発逆転ダイスロール",
+      "source": "https://music.apple.com/jp/album/%E4%B8%80%E7%99%BA%E9%80%86%E8%BB%A2%E3%83%80%E3%82%A4%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%AB/6768876131?i=6768876468&uo=4",
+      "status": "included",
+      "songId": "s-1201ea4c465b867b"
+    },
+    {
+      "raw": "DIE DIE 大天使",
+      "title": "DIE DIE 大天使",
+      "source": "https://music.apple.com/jp/album/die-die-%E5%A4%A7%E5%A4%A9%E4%BD%BF/6768876131?i=6768876469&uo=4",
+      "status": "included",
+      "songId": "s-0014e0b07b7e30bc"
+    },
+    {
+      "raw": "アンデッド♥ギャザリン",
+      "title": "アンデッド♡ギャザリン",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%83%89-%E3%82%AE%E3%83%A3%E3%82%B6%E3%83%AA%E3%83%B3/6768876131?i=6768876470&uo=4",
+      "status": "merged",
+      "songId": "s-5f001d8754f71a6e"
+    },
+    {
+      "raw": "無敵LOVERS",
+      "title": "無敵LOVERS",
+      "source": "https://music.apple.com/jp/album/%E7%84%A1%E6%95%B5lovers/6768876131?i=6768876471&uo=4",
+      "status": "included",
+      "songId": "s-6f546c2cec6a6a6a"
+    },
+    {
+      "raw": "さくらブロードウェイ",
+      "title": "さくらブロードウェイ",
+      "source": "https://music.apple.com/jp/album/%E3%81%95%E3%81%8F%E3%82%89%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4/6768876131?i=6768876472&uo=4",
+      "status": "included",
+      "songId": "s-4521cffd57f92f17"
+    },
+    {
+      "raw": "かがやけ!サンシャインマスカット",
+      "title": "かがやけ!サンシャインマスカット",
+      "source": "https://music.apple.com/jp/album/%E3%81%8B%E3%81%8C%E3%82%84%E3%81%91-%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%83%E3%83%88/6768876131?i=6768876473&uo=4",
+      "status": "included",
+      "songId": "s-4adbc312cd9a9642"
+    },
+    {
+      "raw": "コイテラセ",
+      "title": "コイテラセ",
+      "source": "https://music.apple.com/jp/album/%E3%82%B3%E3%82%A4%E3%83%86%E3%83%A9%E3%82%BB/6768876131?i=6768876474&uo=4",
+      "status": "included",
+      "songId": "s-f7cbd75858ada267"
+    },
+    {
+      "raw": "明日世界が消える前に (2022 ver.)",
+      "title": "明日世界が消える前に",
+      "source": "https://music.apple.com/jp/album/%E6%98%8E%E6%97%A5%E4%B8%96%E7%95%8C%E3%81%8C%E6%B6%88%E3%81%88%E3%82%8B%E5%89%8D%E3%81%AB-2022-ver/6768876131?i=6768876475&uo=4",
+      "status": "merged",
+      "songId": "s-39067a9db896e242"
+    },
+    {
+      "raw": "メッセージ - Single",
+      "source": "https://music.apple.com/jp/album/%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8-single/1466016876?uo=4",
+      "status": "excluded",
+      "reason": "同名別アーティスト。TuneCoreでSHIN/TAKUの2人組と確認",
+      "evidence": "https://www.tunecore.co.jp/artists/ANTHURIUM.OFFICIAL"
+    },
+    {
+      "raw": "Blind - Single",
+      "source": "https://music.apple.com/jp/album/blind-single/1449682474?uo=4",
+      "status": "excluded",
+      "reason": "同名別アーティスト。TuneCoreでSHIN/TAKUの2人組と確認",
+      "evidence": "https://www.tunecore.co.jp/artists/ANTHURIUM.OFFICIAL"
+    }
+  ],
+  "videos": [
+    {
+      "id": "d-2zXA5SM_E",
+      "title": "アンスリューム / Always Arise (Official LIVE Music Video)",
+      "candidateTitle": "Always Arise",
+      "status": "included",
+      "songId": "s-b34f9e5b245cd74d",
+      "source": "https://www.youtube.com/watch?v=d-2zXA5SM_E",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2026-06-05",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "J8Qmh66SzZo",
+      "title": "アンスリューム / 光彩奏歌 (Official LIVE Music Video)",
+      "candidateTitle": "光彩奏歌",
+      "status": "included",
+      "songId": "s-f02cf3c592ab958a",
+      "source": "https://www.youtube.com/watch?v=J8Qmh66SzZo",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2026-03-13",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "bsf-3oF2VRc",
+      "title": "アンスリューム / is (Official LIVE Music Video)",
+      "candidateTitle": "is",
+      "status": "included",
+      "songId": "s-fa51fd49abf67705",
+      "source": "https://www.youtube.com/watch?v=bsf-3oF2VRc",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2026-05-29",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "ZnqwH33MMBE",
+      "title": "アンスリューム / OVER DRIVE (Official LIVE Music Video)",
+      "candidateTitle": "OVER DRIVE",
+      "status": "included",
+      "songId": "s-f6cfe810daf05eb0",
+      "source": "https://www.youtube.com/watch?v=ZnqwH33MMBE",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2026-06-02",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "fvaWj9k3M7Y",
+      "title": "もなかこゆ(アンスリューム) / みかん - 歌ってみた",
+      "candidateTitle": ") / みかん - 歌ってみた",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=fvaWj9k3M7Y",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2026-03-02",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "LL7c_INRTsI",
+      "title": "アンスリューム / 恋せよ!!ぱらぱら半ちゃーはん (Official LIVE Music Video)",
+      "candidateTitle": "恋せよ！ぱらぱら半ちゃーはん",
+      "status": "included",
+      "songId": "s-6365905af594a1b1",
+      "source": "https://www.youtube.com/watch?v=LL7c_INRTsI",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2025-09-30",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "CqRM1gT5T94",
+      "title": "アンスリューム / 光彩奏歌 (Official Music Video)",
+      "candidateTitle": "光彩奏歌",
+      "status": "included",
+      "songId": "s-f02cf3c592ab958a",
+      "source": "https://www.youtube.com/watch?v=CqRM1gT5T94",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2025-11-04",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "PyfPggzCXqs",
+      "title": "アンスリューム / はいどあんどしーく！2025ver. (Official LIVE Music Video)",
+      "candidateTitle": "はいどあんどしーく！",
+      "status": "included",
+      "songId": "s-db168ca7e974b195",
+      "source": "https://www.youtube.com/watch?v=PyfPggzCXqs",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2025-09-25",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "WsQWJGn5PQg",
+      "title": "アンスリューム / 『Magic shower』MV撮影オフショット",
+      "candidateTitle": "『Magic shower』MV撮影オフショット",
+      "status": "excluded",
+      "reason": "告知・短尺・メイキング・企画",
+      "source": "https://www.youtube.com/watch?v=WsQWJGn5PQg",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2025-07-15",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "wW1dWQLk77M",
+      "title": "アンスリューム / Magic shower (Official Music Video)",
+      "candidateTitle": "Magic shower",
+      "status": "included",
+      "songId": "s-8f78f0ce198ed77b",
+      "source": "https://www.youtube.com/watch?v=wW1dWQLk77M",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2025-07-01",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "fr9WA2TpDUE",
+      "title": "アンスリューム / Magic shower (Official LIVE Music Video)",
+      "candidateTitle": "Magic shower",
+      "status": "included",
+      "songId": "s-8f78f0ce198ed77b",
+      "source": "https://www.youtube.com/watch?v=fr9WA2TpDUE",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2025-07-09",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "pN0JplePfQs",
+      "title": "【Dance Practice】アンスリューム「恋のお注射」",
+      "candidateTitle": "「恋のお注射」",
+      "status": "included",
+      "songId": "s-6bfcf706007e1dbe",
+      "source": "https://www.youtube.com/watch?v=pN0JplePfQs",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2025-04-03",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "zmAsjBSAmdQ",
+      "title": "アンスリューム  / BLUE ROCK (official Live MV)",
+      "candidateTitle": "BLUEROCK",
+      "status": "included",
+      "songId": "s-af5e01c8e687d709",
+      "source": "https://www.youtube.com/watch?v=zmAsjBSAmdQ",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2025-03-11",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "qYNpRF075rI",
+      "title": "アンスリューム  / 恋のお注射 (official Live MV)",
+      "candidateTitle": "恋のお注射",
+      "status": "included",
+      "songId": "s-6bfcf706007e1dbe",
+      "source": "https://www.youtube.com/watch?v=qYNpRF075rI",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2025-03-31",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "TlE6iuAg-Z8",
+      "title": "アンスリューム / 3/2 新体制お披露目ライブ ダイジェスト",
+      "candidateTitle": "3/2 新体制お披露目",
+      "status": "excluded",
+      "reason": "告知・短尺・メイキング・企画",
+      "source": "https://www.youtube.com/watch?v=TlE6iuAg-Z8",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2025-03-03",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "oHvKuasdgzA",
+      "title": "アンスリューム  / 口下手ナイトメール(official Live MV)",
+      "candidateTitle": "口下手ナイトメール",
+      "status": "included",
+      "songId": "s-d7b75bf6ef0e8993",
+      "source": "https://www.youtube.com/watch?v=oHvKuasdgzA",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-11-29",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "sGyHxY-i5ww",
+      "title": "アンスリューム  / チャイティーラテ(official Live MV)",
+      "candidateTitle": "チャイティーラテ",
+      "status": "included",
+      "songId": "s-f2c4be5c2884fa8c",
+      "source": "https://www.youtube.com/watch?v=sGyHxY-i5ww",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-11-28",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "fu6kdJYvZp0",
+      "title": "アンスリューム  / メランコリー(official Live MV)",
+      "candidateTitle": "メランコリー",
+      "status": "included",
+      "songId": "s-3267d9a30b12bf59",
+      "source": "https://www.youtube.com/watch?v=fu6kdJYvZp0",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-11-23",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "PvD16cd2LhY",
+      "title": "アンスリューム / とらべりゅーみん (Official Music Video)",
+      "candidateTitle": "とらべりゅーみん",
+      "status": "included",
+      "songId": "s-9b051c76582cbefe",
+      "source": "https://www.youtube.com/watch?v=PvD16cd2LhY",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-10-04",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "iaGUOWnEKT8",
+      "title": "もなかこゆ(アンスリューム) / 花の塔 - 歌ってみた",
+      "candidateTitle": ") / 花の塔 - 歌ってみた",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=iaGUOWnEKT8",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-09-13",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "xbT4dcTgj2Y",
+      "title": "アンスリューム/dearラブソング(Official LIVE MV)",
+      "candidateTitle": "dearラブソング",
+      "status": "excluded",
+      "reason": "説明欄に伊藤詩乃ソロ生誕曲と明記",
+      "source": "https://www.youtube.com/watch?v=xbT4dcTgj2Y",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-09-08",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "e-MVGuvpFwQ",
+      "title": "アンスリューム/whitehours(Official LIVE MV)",
+      "candidateTitle": "whitehours",
+      "status": "excluded",
+      "reason": "説明欄にジョウナイシ鳴ソロ生誕曲と明記",
+      "source": "https://www.youtube.com/watch?v=e-MVGuvpFwQ",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-06-18",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "GYFwxa2vAPQ",
+      "title": "アンスリューム / でんぱはっく・れでぃお (Official LIVE MV)",
+      "candidateTitle": "でんぱはっく・れでぃお",
+      "status": "included",
+      "songId": "s-9be19af235250447",
+      "source": "https://www.youtube.com/watch?v=GYFwxa2vAPQ",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-06-01",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "Pva0Tt-imOo",
+      "title": "アンスリューム / でんぱはっく・れでぃお (Official Music Video)",
+      "candidateTitle": "でんぱはっく・れでぃお",
+      "status": "included",
+      "songId": "s-9be19af235250447",
+      "source": "https://www.youtube.com/watch?v=Pva0Tt-imOo",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-05-29",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "AH6lZ1JNrKs",
+      "title": "【歌って踊ってみた】乱舞LOんVE乱武 / もなかこゆ(アンスリューム)",
+      "candidateTitle": ")",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=AH6lZ1JNrKs",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-05-29",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "pSmHHVgpR00",
+      "title": "【Lyric Video】ときめき死 / 月埜ヒスイ(アンスリューム)",
+      "candidateTitle": ")",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=pSmHHVgpR00",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-05-26",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "a8JFLQs6Oc4",
+      "title": "アンスリューム/Kiss me my Darling (Official Live MV)",
+      "candidateTitle": "Kiss me my Darling",
+      "status": "excluded",
+      "reason": "説明欄にもなかこゆソロ生誕曲と明記",
+      "source": "https://www.youtube.com/watch?v=a8JFLQs6Oc4",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-05-02",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "efNJPEETKc4",
+      "title": "もなかこゆ(アンスリューム)/すきっちゅーの！-踊ってみた",
+      "candidateTitle": ")/すきっちゅーの！-踊ってみた",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=efNJPEETKc4",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-04-19",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "JH1jxBfzaos",
+      "title": "アンスリューム / 恋のお注射 (Official Music Video)",
+      "candidateTitle": "恋のお注射",
+      "status": "included",
+      "songId": "s-6bfcf706007e1dbe",
+      "source": "https://www.youtube.com/watch?v=JH1jxBfzaos",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-04-18",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "E48QvE7OlPk",
+      "title": "ちぎら×月埜ヒスイ 『デビューからの5年間を語る』/アンスリューム",
+      "candidateTitle": "",
+      "status": "excluded",
+      "reason": "公演全編（説明欄の曲目は別途確認）",
+      "source": "https://www.youtube.com/watch?v=E48QvE7OlPk",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-03-21",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "lD890qojLzM",
+      "title": "アンスリューム/神様共依存 acoustic ver.",
+      "candidateTitle": "神様共依存",
+      "status": "included",
+      "songId": "s-42af53ecfb2042b2",
+      "source": "https://www.youtube.com/watch?v=lD890qojLzM",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-03-19",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "VvKQJujLOxs",
+      "title": "アンスリューム/つきにゃん☆ひすてりっく☆にゃいと (Official Live MV)",
+      "candidateTitle": "つきにゃん☆ひすてりっく☆にゃいと",
+      "status": "excluded",
+      "reason": "説明欄に月埜ヒスイソロ生誕曲と明記",
+      "source": "https://www.youtube.com/watch?v=VvKQJujLOxs",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-02-19",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "50jjxYgxrrk",
+      "title": "アンスリューム/ALRIGHT (Official Live MV)",
+      "candidateTitle": "ALRIGHT",
+      "status": "excluded",
+      "reason": "説明欄にちぎらソロ生誕曲と明記",
+      "source": "https://www.youtube.com/watch?v=50jjxYgxrrk",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2024-01-21",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "EbqetKV5flM",
+      "title": "もなかこゆ(アンスリューム) / ハピネス - 歌ってみた",
+      "candidateTitle": ") / ハピネス - 歌ってみた",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=EbqetKV5flM",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-12-25",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "pTRFiAUxbmg",
+      "title": "もなかこゆ(アンスリューム) / First Love - 歌ってみた",
+      "candidateTitle": ") / First Love - 歌ってみた",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=pTRFiAUxbmg",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-11-30",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "ByQR9ybYOik",
+      "title": "アンスリューム /おにぃちゃんス ゆづ推しカメラver (official Live MV)",
+      "candidateTitle": "おにぃちゃんス",
+      "status": "included",
+      "songId": "s-a2e4a85337e1fd82",
+      "source": "https://www.youtube.com/watch?v=ByQR9ybYOik",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-10-18",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "nEw3DZ1mVfY",
+      "title": "アンスリューム  / にゅーかおすっ!!!!!! (official Live MV)",
+      "candidateTitle": "にゅーかおすっ!!!!",
+      "status": "included",
+      "songId": "s-af569d733386c29e",
+      "source": "https://www.youtube.com/watch?v=nEw3DZ1mVfY",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-10-05",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "yzmcxPPu-js",
+      "title": "アンスリュームワンマン直前インタビュー動画「夏に感じた悔しさ、6人の本音、10月4日ワンマンライブへ向けて」",
+      "candidateTitle": "ワンマン直前インタビュー動画「夏に感じた悔しさ、6人の本音、10月4日ワンマン",
+      "status": "excluded",
+      "reason": "ワンマン直前インタビュー。楽曲映像ではない",
+      "source": "https://www.youtube.com/watch?v=yzmcxPPu-js",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-09-22",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "BH7B4Zn3Y-s",
+      "title": "アンスリューム / SUPER SHINE (Official MV)",
+      "candidateTitle": "SUPER SHINE",
+      "status": "included",
+      "songId": "s-3988a10b36fea022",
+      "source": "https://www.youtube.com/watch?v=BH7B4Zn3Y-s",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-09-12",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "A8zZJApVtTs",
+      "title": "【4K】アンスリューム / 4周年記念ワンマンライブ3章 第1話『そして、アンスリュームは再びあのステージへ！』 at Spotify O-EAST（Official LIVE）",
+      "candidateTitle": "4周年記念ワンマン",
+      "status": "excluded",
+      "reason": "公演全編（説明欄の曲目は別途確認）",
+      "source": "https://www.youtube.com/watch?v=A8zZJApVtTs",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-09-01",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "0s8-LEaP2hE",
+      "title": "【4K】アンスリューム / 全国侵略ツアーin東名阪ファイナル公演『STORY of MY ”らいぶ”』at Shinjuku BLAZE （Official LIVE）",
+      "candidateTitle": "全国侵略ツアーin東名阪ファイナル公演『STORY of MY ”らいぶ”』at Shinjuku BLAZE",
+      "status": "excluded",
+      "reason": "公演全編（説明欄の曲目は別途確認）",
+      "source": "https://www.youtube.com/watch?v=0s8-LEaP2hE",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-08-18",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "IbaMGMUA1qk",
+      "title": "アンスリューム / 疑似恋愛させたげるっ！ (Official MV)",
+      "candidateTitle": "疑似恋愛させたげるっ！",
+      "status": "included",
+      "songId": "s-d2ea9e8320cdca9e",
+      "source": "https://www.youtube.com/watch?v=IbaMGMUA1qk",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-08-01",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "FXgIGWUMWaA",
+      "title": "ジョウナイシ鳴(アンスリューム) / 誇り高きアイドル - 歌ってみた",
+      "candidateTitle": ") / 誇り高きアイドル - 歌ってみた",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=FXgIGWUMWaA",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-06-28",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "dwyQE7S4xeE",
+      "title": "アンスリューム / メルトロピカーナ（Offical Live MV）",
+      "candidateTitle": "メルトロピカーナ",
+      "status": "included",
+      "songId": "s-a9dd4b9c4cd62468",
+      "source": "https://www.youtube.com/watch?v=dwyQE7S4xeE",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-06-16",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "TUig-DLH7VI",
+      "title": "月埜ヒスイ(アンスリューム) / アイドル - 歌ってみた",
+      "candidateTitle": ") / アイドル - 歌ってみた",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=TUig-DLH7VI",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-06-07",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "0NT3tu6X1NQ",
+      "title": "アンスリューム / 口下手ナイトメール (Official Live MV)",
+      "candidateTitle": "口下手ナイトメール",
+      "status": "included",
+      "songId": "s-d7b75bf6ef0e8993",
+      "source": "https://www.youtube.com/watch?v=0NT3tu6X1NQ",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-05-27",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "EWa9vWudG5E",
+      "title": "アンスリューム / おにぃちゃんス (Official MV)",
+      "candidateTitle": "おにぃちゃんス",
+      "status": "included",
+      "songId": "s-a2e4a85337e1fd82",
+      "source": "https://www.youtube.com/watch?v=EWa9vWudG5E",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-05-20",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "osSYhKHqpu0",
+      "title": "アンスリューム / おどりゃんせ！ (Official Live MV)",
+      "candidateTitle": "おどりゃんせ！",
+      "status": "included",
+      "songId": "s-ad313e93b4e4f8b1",
+      "source": "https://www.youtube.com/watch?v=osSYhKHqpu0",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-05-13",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "ltm9v_lt5uY",
+      "title": "アンスリューム / はいどあんどしーく！ (Official Live MV)",
+      "candidateTitle": "はいどあんどしーく！",
+      "status": "included",
+      "songId": "s-db168ca7e974b195",
+      "source": "https://www.youtube.com/watch?v=ltm9v_lt5uY",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-05-07",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "FdEsYDW9LjA",
+      "title": "アンスリューム / BLUEROCK(Official Music Video)",
+      "candidateTitle": "BLUEROCK",
+      "status": "included",
+      "songId": "s-af5e01c8e687d709",
+      "source": "https://www.youtube.com/watch?v=FdEsYDW9LjA",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-04-25",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "bc8G5t7JQV4",
+      "title": "アンスリューム / 本気恋~ガチでこい!!~(Official Music Video)",
+      "candidateTitle": "本気恋~ガチでこい!!~",
+      "status": "included",
+      "songId": "s-001686a22eb7f01e",
+      "source": "https://www.youtube.com/watch?v=bc8G5t7JQV4",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-04-13",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "0AFtm3JTbIY",
+      "title": "アンスリューム / メランコリー (Official Live MV)",
+      "candidateTitle": "メランコリー",
+      "status": "included",
+      "songId": "s-3267d9a30b12bf59",
+      "source": "https://www.youtube.com/watch?v=0AFtm3JTbIY",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-03-09",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "yFftXeysYjg",
+      "title": "月埜ヒスイ(アンスリューム) / melt bitter - 歌ってみた",
+      "candidateTitle": ") / melt bitter - 歌ってみた",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=yFftXeysYjg",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-02-26",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "zoPStPOQaGw",
+      "title": "アンスリューム / チャイティーラテ - 衝劇ver. (Official Live MV)",
+      "candidateTitle": "チャイティーラテ",
+      "status": "included",
+      "songId": "s-f2c4be5c2884fa8c",
+      "source": "https://www.youtube.com/watch?v=zoPStPOQaGw",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-01-30",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "Rpj2HrE4RKE",
+      "title": "アンスリューム / にゅーかおすっ!!!!!! (Official Live MV)",
+      "candidateTitle": "にゅーかおすっ!!!!",
+      "status": "included",
+      "songId": "s-af569d733386c29e",
+      "source": "https://www.youtube.com/watch?v=Rpj2HrE4RKE",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-01-26",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "x0NbkkLA-1E",
+      "title": "アンスリューム / おにぃちゃんス (Official Live MV)",
+      "candidateTitle": "おにぃちゃんス",
+      "status": "included",
+      "songId": "s-a2e4a85337e1fd82",
+      "source": "https://www.youtube.com/watch?v=x0NbkkLA-1E",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-01-19",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "ipcandV-bic",
+      "title": "アンスリューム / まだまえるっ!!!!!! (Official Live MV)",
+      "candidateTitle": "まだまえるっ!!!!!!",
+      "status": "included",
+      "songId": "s-722715a37101c0f2",
+      "source": "https://www.youtube.com/watch?v=ipcandV-bic",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-01-12",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "UsAkiCbOyN4",
+      "title": "アンスリューム / 超!!アンスデーム(Official Music Video)",
+      "candidateTitle": "超!!アンスデーム",
+      "status": "included",
+      "songId": "s-d5c7262dff6b8e28",
+      "source": "https://www.youtube.com/watch?v=UsAkiCbOyN4",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-01-01",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "B3mARyNchyc",
+      "title": "アンスリューム / かわゆすギルティ(Official Music Video)",
+      "candidateTitle": "かわゆすギルティ",
+      "status": "included",
+      "songId": "s-c9e2d31cb071b20e",
+      "source": "https://www.youtube.com/watch?v=B3mARyNchyc",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2022-12-02",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "wGlaqDM8Rho",
+      "title": "アンスリューム / まだまえるっ!!!!!!(Official Music Video)",
+      "candidateTitle": "まだまえるっ!!!!!!",
+      "status": "included",
+      "songId": "s-722715a37101c0f2",
+      "source": "https://www.youtube.com/watch?v=wGlaqDM8Rho",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2022-08-01",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "URCEq5Zi7is",
+      "title": "アンスリューム / レイニーダーリン(Official Music Video)",
+      "candidateTitle": "レイニーダーリン",
+      "status": "included",
+      "songId": "s-624211d56b5940fd",
+      "source": "https://www.youtube.com/watch?v=URCEq5Zi7is",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2022-06-29",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "lv3I_JFbi6A",
+      "title": "アンスリューム / すすれ！ちゅるちゅる家系らーめん (Official Live MV)",
+      "candidateTitle": "すすれ！ちゅるちゅる家系らーめん",
+      "status": "included",
+      "songId": "s-0b692dda78bab494",
+      "source": "https://www.youtube.com/watch?v=lv3I_JFbi6A",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2022-05-27",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "8BE6lLZBieU",
+      "title": "アンスリューム / 明日世界が消える前に(2022 ver.) (Official Music Video)",
+      "candidateTitle": "明日世界が消える前に",
+      "status": "included",
+      "songId": "s-39067a9db896e242",
+      "source": "https://www.youtube.com/watch?v=8BE6lLZBieU",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2022-03-16",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "YSgOf6CLcpY",
+      "title": "アンスリューム / アンスリューム大サーカス(Official Music Video)",
+      "candidateTitle": "アンスリューム大サーカス",
+      "status": "included",
+      "songId": "s-3b6d53dab49ed250",
+      "source": "https://www.youtube.com/watch?v=YSgOf6CLcpY",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2022-01-01",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "iRCKfOtn-HE",
+      "title": "アンスリューム あんすではぴはぴ(Live MV)",
+      "candidateTitle": "あんすではぴはぴ",
+      "status": "included",
+      "songId": "s-c9396993d5f88342",
+      "source": "https://www.youtube.com/watch?v=iRCKfOtn-HE",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2021-10-01",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "C9HxlhEPAsc",
+      "title": "アンスリューム かがやけ！サンシャインマスカット(Official Music Video)",
+      "candidateTitle": "かがやけ！サンシャインマスカット",
+      "status": "included",
+      "songId": "s-4adbc312cd9a9642",
+      "source": "https://www.youtube.com/watch?v=C9HxlhEPAsc",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2021-07-22",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "gjgTQC0vWf8",
+      "title": "周年記念ライブ 今際の国のアンス(TSUTAYA O-EAST)＜for J-LODlive＞",
+      "candidateTitle": "周年記念",
+      "status": "excluded",
+      "reason": "周年公演の複数曲映像。説明欄に曲目の明記なし",
+      "source": "https://www.youtube.com/watch?v=gjgTQC0vWf8",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2021-07-22",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "nja3Ln3-BVY",
+      "title": "アンスリューム さくらブロードウェイ(Official Music Video)",
+      "candidateTitle": "さくらブロードウェイ",
+      "status": "included",
+      "songId": "s-4521cffd57f92f17",
+      "source": "https://www.youtube.com/watch?v=nja3Ln3-BVY",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2021-05-01",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "htnhxSw4MUI",
+      "title": "アンスリューム ぺるぺっぽ [Live MV]",
+      "candidateTitle": "ぺるぺっぽ",
+      "status": "included",
+      "songId": "s-e1113a95ed683d78",
+      "source": "https://www.youtube.com/watch?v=htnhxSw4MUI",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2021-03-04",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "HLGiCP6LFpo",
+      "title": "アンスリューム BLACKOUT!!♡(月埜ヒスイソロ曲)",
+      "candidateTitle": "BLACKOUT!!♡(月埜ヒスイソロ曲)",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=HLGiCP6LFpo",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2021-02-21",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "HpThJkpbVto",
+      "title": "アンスリューム 契れ！魔法少女⭐︎ぽめらちゃん(ちぎらソロ曲)",
+      "candidateTitle": "契れ！魔法少女⭐︎ぽめらちゃん(ちぎらソロ曲)",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=HpThJkpbVto",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2021-01-24",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "my70uziicfs",
+      "title": "アンスリューム 検査（天神・大天使・閻魔ソロ曲）",
+      "candidateTitle": "検査（天神・大天使・閻魔ソロ曲）",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=my70uziicfs",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-12-24",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "an_QsvA7IcU",
+      "title": "アンスリューム しゃぼん玉（黒木いろソロ曲）",
+      "candidateTitle": "しゃぼん玉（黒木いろソロ曲）",
+      "status": "excluded",
+      "reason": "個人ソロ・カバー",
+      "source": "https://www.youtube.com/watch?v=an_QsvA7IcU",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-11-28",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "5YJzyqJ59kU",
+      "title": "アンスリューム 恋せよ！ぱらぱら半ちゃーはん(Official Music Video)",
+      "candidateTitle": "恋せよ！ぱらぱら半ちゃーはん",
+      "status": "included",
+      "songId": "s-6365905af594a1b1",
+      "source": "https://www.youtube.com/watch?v=5YJzyqJ59kU",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-11-21",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "Nb8BIwxpHhE",
+      "title": "アンスリューム にゅーかおすっ！！！！(Official Music Video)",
+      "candidateTitle": "にゅーかおすっ!!!!",
+      "status": "included",
+      "songId": "s-af569d733386c29e",
+      "source": "https://www.youtube.com/watch?v=Nb8BIwxpHhE",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-11-14",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "flEaaFgO0cU",
+      "title": "アンスリューム でんわにでんわ [Live MV]",
+      "candidateTitle": "でんわにでんわ",
+      "status": "included",
+      "songId": "s-b37518a8d7c59727",
+      "source": "https://www.youtube.com/watch?v=flEaaFgO0cU",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-11-07",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "2drKnZ3E_Oo",
+      "title": "アンスリューム 警察犬 (Official Music Video)",
+      "candidateTitle": "警察犬",
+      "status": "included",
+      "songId": "s-1493097d9540aa5c",
+      "source": "https://www.youtube.com/watch?v=2drKnZ3E_Oo",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-10-31",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "jwPYict8ptE",
+      "title": "今夜は世界のまんなかで",
+      "candidateTitle": "今夜は世界のまんなかで",
+      "status": "included",
+      "songId": "s-fb85c41edc65ad30",
+      "source": "https://www.youtube.com/watch?v=jwPYict8ptE",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-05-31",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "9zbfqw4i1QM",
+      "title": "アンスリューム だめだめ (Official Music Video)",
+      "candidateTitle": "だめだめ",
+      "status": "included",
+      "songId": "s-5cb84ccc5171b710",
+      "source": "https://www.youtube.com/watch?v=9zbfqw4i1QM",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-03-17",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "UL4esNrIlDQ",
+      "title": "アンスリューム 口下手ナイトメール[Live MV]",
+      "candidateTitle": "口下手ナイトメール",
+      "status": "included",
+      "songId": "s-d7b75bf6ef0e8993",
+      "source": "https://www.youtube.com/watch?v=UL4esNrIlDQ",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-03-13",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "CJ_jWR_b3pM",
+      "title": "アンスリューム 和魂国才[Live MV]",
+      "candidateTitle": "和魂国才",
+      "status": "included",
+      "songId": "s-2f7cee448a783166",
+      "source": "https://www.youtube.com/watch?v=CJ_jWR_b3pM",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-02-29",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "ndKep0os2Pg",
+      "title": "アンスリューム メランコリー[Live MV]",
+      "candidateTitle": "メランコリー",
+      "status": "included",
+      "songId": "s-3267d9a30b12bf59",
+      "source": "https://www.youtube.com/watch?v=ndKep0os2Pg",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-02-21",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "_M0OOznmrtc",
+      "title": "アンスリューム ミーイズムが止まらない！[Live MV]",
+      "candidateTitle": "ミーイズムがとまらない！",
+      "status": "included",
+      "songId": "s-89891ec56d3adac9",
+      "source": "https://www.youtube.com/watch?v=_M0OOznmrtc",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-01-25",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "Ykp908sVj4k",
+      "title": "アンスリューム ネバーランド [Live MV]",
+      "candidateTitle": "ネバーランド",
+      "status": "included",
+      "songId": "s-554e9a34d6d9d9b5",
+      "source": "https://www.youtube.com/watch?v=Ykp908sVj4k",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2019-12-25",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "yJAWGPGtfd0",
+      "title": "アンスリューム アンスデーム [Live MV]",
+      "candidateTitle": "アンスデーム",
+      "status": "included",
+      "songId": "s-4f588d8951f43f61",
+      "source": "https://www.youtube.com/watch?v=yJAWGPGtfd0",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2019-11-29",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "VdsXh3daCoA",
+      "title": "アンスリューム だだだっ!!!! [Live MV]",
+      "candidateTitle": "だだだっ!!!!",
+      "status": "included",
+      "songId": "s-5177938ad0576b72",
+      "source": "https://www.youtube.com/watch?v=VdsXh3daCoA",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2019-11-24",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    }
+  ],
+  "supplements": [
+    {
+      "title": "夢桜",
+      "status": "included",
+      "songId": "s-90655b9eecea978b",
+      "source": "https://note.com/tacomarinade/n/n9152d8aa9b77"
+    },
+    {
+      "title": "君夢物語",
+      "status": "included",
+      "songId": "s-2acbd546c2391e94",
+      "source": "https://note.com/tacomarinade/n/n9da0ff04e426"
+    },
+    {
+      "title": "ときめき死",
+      "status": "included",
+      "songId": "s-5b3013aa913716b9",
+      "source": "https://note.com/tacomarinade/n/n9da0ff04e426"
+    },
+    {
+      "title": "超!!アンスデーム",
+      "status": "included",
+      "songId": "s-d5c7262dff6b8e28",
+      "source": "https://www.youtube.com/watch?v=UsAkiCbOyN4"
+    },
+    {
+      "title": "おにぃちゃんス",
+      "status": "included",
+      "songId": "s-a2e4a85337e1fd82",
+      "source": "https://www.youtube.com/watch?v=ByQR9ybYOik"
+    },
+    {
+      "title": "チャイティーラテ",
+      "status": "included",
+      "songId": "s-f2c4be5c2884fa8c",
+      "source": "https://www.youtube.com/watch?v=zoPStPOQaGw"
+    }
+  ],
+  "pending": [
+    {
+      "title": "アイデンティティクライシス",
+      "status": "review",
+      "source": "https://note.com/tacomarinade/n/n9152d8aa9b77",
+      "reason": "過去曲として言及あり。公式曲目・音源・披露日を未確認。カタログへの追加待ち"
+    }
+  ]
+}
