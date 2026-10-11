@@ -1662,18 +1662,6 @@
   ],
   "videos": [
     {
-      "id": "d-2zXA5SM_E",
-      "title": "アンスリューム / Always Arise (Official LIVE Music Video)",
-      "candidateTitle": "Always Arise",
-      "status": "included",
-      "songId": "s-b34f9e5b245cd74d",
-      "source": "https://www.youtube.com/watch?v=d-2zXA5SM_E",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2026-06-05",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
       "id": "J8Qmh66SzZo",
       "title": "アンスリューム / 光彩奏歌 (Official LIVE Music Video)",
       "candidateTitle": "光彩奏歌",
@@ -1686,14 +1674,14 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "bsf-3oF2VRc",
-      "title": "アンスリューム / is (Official LIVE Music Video)",
-      "candidateTitle": "is",
+      "id": "d-2zXA5SM_E",
+      "title": "アンスリューム / Always Arise (Official LIVE Music Video)",
+      "candidateTitle": "Always Arise",
       "status": "included",
-      "songId": "s-fa51fd49abf67705",
-      "source": "https://www.youtube.com/watch?v=bsf-3oF2VRc",
+      "songId": "s-b34f9e5b245cd74d",
+      "source": "https://www.youtube.com/watch?v=d-2zXA5SM_E",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2026-05-29",
+      "published": "2026-06-05",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -1706,6 +1694,18 @@
       "source": "https://www.youtube.com/watch?v=ZnqwH33MMBE",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2026-06-02",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "bsf-3oF2VRc",
+      "title": "アンスリューム / is (Official LIVE Music Video)",
+      "candidateTitle": "is",
+      "status": "included",
+      "songId": "s-fa51fd49abf67705",
+      "source": "https://www.youtube.com/watch?v=bsf-3oF2VRc",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2026-05-29",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -1818,18 +1818,6 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "TlE6iuAg-Z8",
-      "title": "アンスリューム / 3/2 新体制お披露目ライブ ダイジェスト",
-      "candidateTitle": "3/2 新体制お披露目",
-      "status": "excluded",
-      "reason": "告知・短尺・メイキング・企画",
-      "source": "https://www.youtube.com/watch?v=TlE6iuAg-Z8",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2025-03-03",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
       "id": "zmAsjBSAmdQ",
       "title": "アンスリューム  / BLUE ROCK (official Live MV)",
       "candidateTitle": "BLUEROCK",
@@ -1838,6 +1826,18 @@
       "source": "https://www.youtube.com/watch?v=zmAsjBSAmdQ",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2025-03-11",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "TlE6iuAg-Z8",
+      "title": "アンスリューム / 3/2 新体制お披露目ライブ ダイジェスト",
+      "candidateTitle": "3/2 新体制お披露目",
+      "status": "excluded",
+      "reason": "告知・短尺・メイキング・企画",
+      "source": "https://www.youtube.com/watch?v=TlE6iuAg-Z8",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2025-03-03",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2190,18 +2190,6 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "0NT3tu6X1NQ",
-      "title": "アンスリューム / 口下手ナイトメール (Official Live MV)",
-      "candidateTitle": "口下手ナイトメール",
-      "status": "included",
-      "songId": "s-d7b75bf6ef0e8993",
-      "source": "https://www.youtube.com/watch?v=0NT3tu6X1NQ",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2023-05-27",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
       "id": "TUig-DLH7VI",
       "title": "月埜ヒスイ(アンスリューム) / アイドル - 歌ってみた",
       "candidateTitle": ") / アイドル - 歌ってみた",
@@ -2210,6 +2198,18 @@
       "source": "https://www.youtube.com/watch?v=TUig-DLH7VI",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2023-06-07",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "0NT3tu6X1NQ",
+      "title": "アンスリューム / 口下手ナイトメール (Official Live MV)",
+      "candidateTitle": "口下手ナイトメール",
+      "status": "included",
+      "songId": "s-d7b75bf6ef0e8993",
+      "source": "https://www.youtube.com/watch?v=0NT3tu6X1NQ",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2023-05-27",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2562,18 +2562,6 @@
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
     {
-      "id": "flEaaFgO0cU",
-      "title": "アンスリューム でんわにでんわ [Live MV]",
-      "candidateTitle": "でんわにでんわ",
-      "status": "included",
-      "songId": "s-b37518a8d7c59727",
-      "source": "https://www.youtube.com/watch?v=flEaaFgO0cU",
-      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
-      "published": "2020-11-07",
-      "author": "アンスリューム【公式】",
-      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
-    },
-    {
       "id": "2drKnZ3E_Oo",
       "title": "アンスリューム 警察犬 (Official Music Video)",
       "candidateTitle": "警察犬",
@@ -2582,6 +2570,18 @@
       "source": "https://www.youtube.com/watch?v=2drKnZ3E_Oo",
       "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
       "published": "2020-10-31",
+      "author": "アンスリューム【公式】",
+      "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
+    },
+    {
+      "id": "flEaaFgO0cU",
+      "title": "アンスリューム でんわにでんわ [Live MV]",
+      "candidateTitle": "でんわにでんわ",
+      "status": "included",
+      "songId": "s-b37518a8d7c59727",
+      "source": "https://www.youtube.com/watch?v=flEaaFgO0cU",
+      "provenance": "https://www.youtube.com/playlist?list=UUg7ZyYlfYQBxxvcaY4sghXA",
+      "published": "2020-11-07",
       "author": "アンスリューム【公式】",
       "channelId": "UCg7ZyYlfYQBxxvcaY4sghXA"
     },
@@ -2714,24 +2714,60 @@
       "status": "included",
       "songId": "s-2acbd546c2391e94",
       "source": "https://note.com/tacomarinade/n/n9da0ff04e426",
-      "reason": "Wikipediaの楽曲一覧でユニット曲・歌唱メンバーを確認。ユニット曲の切替対象として収録",
+      "reason": "ユニット曲の区分はWikipedia。年はユーザー指定の披露順と前後曲の2019年の資料から推定。2022-03-17は後年の公演確認日で初披露年ではない",
       "unit": true,
       "unitMembers": [
         "黒木いろ",
         "ちぎら"
-      ]
+      ],
+      "date": "2019",
+      "dateKind": "estimated-year",
+      "dateEvidence": {
+        "method": "wiki-performance-order",
+        "source": "https://ja.wikipedia.org/wiki/アンスリューム#楽曲一覧",
+        "reason": "ユーザー指定の披露順に基づく年の推定。前は2019年の「はいどあんどしーく！」、後は2019年に公式MV公開済みの「アンスデーム」。初披露の月日は未確認",
+        "before": {
+          "title": "はいどあんどしーく！",
+          "date": "2019-07-12",
+          "dateKind": "release"
+        },
+        "after": {
+          "title": "アンスデーム",
+          "date": "2019-11-29",
+          "dateKind": "video",
+          "source": "https://www.youtube.com/watch?v=yJAWGPGtfd0"
+        }
+      }
     },
     {
       "title": "ときめき死",
       "status": "included",
       "songId": "s-5b3013aa913716b9",
       "source": "https://note.com/tacomarinade/n/n9da0ff04e426",
-      "reason": "Wikipediaの楽曲一覧でユニット曲・歌唱メンバーを確認。ユニット曲の切替対象として収録",
+      "reason": "ユニット曲の区分はWikipedia。年はユーザー指定の披露順と前後曲の2019年の資料から推定。2022-03-17は後年の公演確認日で初披露年ではない",
       "unit": true,
       "unitMembers": [
         "天神・大天使・閻魔",
         "月埜ヒスイ"
-      ]
+      ],
+      "date": "2019",
+      "dateKind": "estimated-year",
+      "dateEvidence": {
+        "method": "wiki-performance-order",
+        "source": "https://ja.wikipedia.org/wiki/アンスリューム#楽曲一覧",
+        "reason": "ユーザー指定の披露順に基づく年の推定。前は2019年の「はいどあんどしーく！」、後は2019年に公式MV公開済みの「アンスデーム」。初披露の月日は未確認",
+        "before": {
+          "title": "はいどあんどしーく！",
+          "date": "2019-07-12",
+          "dateKind": "release"
+        },
+        "after": {
+          "title": "アンスデーム",
+          "date": "2019-11-29",
+          "dateKind": "video",
+          "source": "https://www.youtube.com/watch?v=yJAWGPGtfd0"
+        }
+      }
     },
     {
       "title": "超!!アンスデーム",

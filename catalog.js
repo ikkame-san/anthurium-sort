@@ -7,6 +7,11 @@ export function variantKind(song){
   return null;
 }
 
+export function yearLabel(song){
+  if(song.dateKind==='unknown')return '公開年未確認';
+  return song.date.slice(0,4)+(song.dateKind==='estimated-year'?'（推定）':'');
+}
+
 export function filterCatalog(songs,{includeRemixes=false,includeLanguages=false,includeSolo=false,includeUnits=false}={}){
   return songs.filter(song=>{
     if(song.solo&&!includeSolo)return false;

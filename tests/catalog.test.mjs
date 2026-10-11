@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {SONGS} from '../songs.js';
-import {filterCatalog,variantKind} from '../catalog.js';
+import {filterCatalog,variantKind,yearLabel} from '../catalog.js';
 const audit=JSON.parse(await readFile(new URL('../catalog-audit.json',import.meta.url),'utf8'));
 const ids=new Set(SONGS.map(s=>s.id));
 test('every accepted release, video and supplemental candidate points to a catalog song',()=>{
@@ -13,6 +13,20 @@ test('every accepted release, video and supplemental candidate points to a catal
  }
  assert.ok(audit.videos.length>=audit.uploadsChecked);
  for(const s of SONGS)assert.ok([...audit.releases,...audit.supplements].some(r=>r.songId===s.id),'untracked '+s.title);
+});
+
+test('unreleased unit years are estimates from performance order, not a later live date',()=>{
+ for(const title of ['君夢物語','ときめき死']){
+  const s=SONGS.find(s=>s.title===title);
+  assert.equal(s.date,'2019');assert.equal(s.dateKind,'estimated-year');assert.equal(yearLabel(s),'2019（推定）');
+  assert.equal(s.dateEvidence.method,'wiki-performance-order');
+  assert.equal(s.dateEvidence.before.date.slice(0,4),'2019');assert.equal(s.dateEvidence.after.date.slice(0,4),'2019');
+  assert.ok(s.sources.some(source=>source.date==='2022-03-17'));
+  const record=audit.supplements.find(r=>r.songId===s.id);assert.deepEqual(record.dateEvidence,s.dateEvidence);
+ }
+ for(const title of ['夢桜','アイデンティティクライシス'])assert.equal(yearLabel(SONGS.find(s=>s.title===title)),'2019');
+ assert.equal(yearLabel(SONGS.find(s=>s.title==='dearラブソング')),'2024');
+ assert.equal(yearLabel({date:'',dateKind:'unknown'}),'公開年未確認');
 });
 test('optional tracks start hidden and SE is excluded',()=>{
  assert.ok(filterCatalog(SONGS).every(s=>!variantKind(s)));

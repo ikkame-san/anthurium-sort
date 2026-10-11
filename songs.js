@@ -1078,52 +1078,6 @@ export const SONGS = [
     }
   },
   {
-    "id": "s-5b3013aa913716b9",
-    "title": "ときめき死",
-    "date": "2022-03-17",
-    "dateKind": "live",
-    "release": "天神・大天使・閻魔・月埜ヒスイ ユニット曲",
-    "sources": [
-      {
-        "title": "3周年記念公演ライブレポート M6（披露確認日）",
-        "url": "https://note.com/tacomarinade/n/n9da0ff04e426",
-        "date": "2022-03-17"
-      },
-      {
-        "title": "Wikipedia アンスリューム「楽曲一覧」（ユニット区分・歌唱メンバー）",
-        "url": "https://ja.wikipedia.org/wiki/アンスリューム#楽曲一覧"
-      }
-    ],
-    "unit": true,
-    "unitMembers": [
-      "天神・大天使・閻魔",
-      "月埜ヒスイ"
-    ]
-  },
-  {
-    "id": "s-2acbd546c2391e94",
-    "title": "君夢物語",
-    "date": "2022-03-17",
-    "dateKind": "live",
-    "release": "黒木いろ・ちぎら ユニット曲",
-    "sources": [
-      {
-        "title": "3周年記念公演ライブレポート M7（披露確認日）",
-        "url": "https://note.com/tacomarinade/n/n9da0ff04e426",
-        "date": "2022-03-17"
-      },
-      {
-        "title": "Wikipedia アンスリューム「楽曲一覧」（ユニット区分・歌唱メンバー）",
-        "url": "https://ja.wikipedia.org/wiki/アンスリューム#楽曲一覧"
-      }
-    ],
-    "unit": true,
-    "unitMembers": [
-      "黒木いろ",
-      "ちぎら"
-    ]
-  },
-  {
     "id": "s-0014e0b07b7e30bc",
     "title": "DIE DIE 大天使",
     "date": "2022-02-23",
@@ -2240,6 +2194,94 @@ export const SONGS = [
       }
     ],
     "catalogNote": "楽曲の年はユーザー確認により2019年。月日・公式動画は未確認"
+  },
+  {
+    "id": "s-5b3013aa913716b9",
+    "title": "ときめき死",
+    "date": "2019",
+    "dateKind": "estimated-year",
+    "release": "天神・大天使・閻魔・月埜ヒスイ ユニット曲",
+    "sources": [
+      {
+        "title": "3周年記念公演ライブレポート M6（披露確認日）",
+        "url": "https://note.com/tacomarinade/n/n9da0ff04e426",
+        "date": "2022-03-17"
+      },
+      {
+        "title": "Wikipedia アンスリューム「楽曲一覧」（ユニット区分・歌唱メンバー）",
+        "url": "https://ja.wikipedia.org/wiki/アンスリューム#楽曲一覧"
+      },
+      {
+        "title": "アンスデーム 公式MV（2019年に公開済み）",
+        "url": "https://www.youtube.com/watch?v=yJAWGPGtfd0",
+        "date": "2019-11-29"
+      }
+    ],
+    "unit": true,
+    "unitMembers": [
+      "天神・大天使・閻魔",
+      "月埜ヒスイ"
+    ],
+    "dateEvidence": {
+      "method": "wiki-performance-order",
+      "source": "https://ja.wikipedia.org/wiki/アンスリューム#楽曲一覧",
+      "reason": "ユーザー指定の披露順に基づく年の推定。前は2019年の「はいどあんどしーく！」、後は2019年に公式MV公開済みの「アンスデーム」。初披露の月日は未確認",
+      "before": {
+        "title": "はいどあんどしーく！",
+        "date": "2019-07-12",
+        "dateKind": "release"
+      },
+      "after": {
+        "title": "アンスデーム",
+        "date": "2019-11-29",
+        "dateKind": "video",
+        "source": "https://www.youtube.com/watch?v=yJAWGPGtfd0"
+      }
+    }
+  },
+  {
+    "id": "s-2acbd546c2391e94",
+    "title": "君夢物語",
+    "date": "2019",
+    "dateKind": "estimated-year",
+    "release": "黒木いろ・ちぎら ユニット曲",
+    "sources": [
+      {
+        "title": "3周年記念公演ライブレポート M7（披露確認日）",
+        "url": "https://note.com/tacomarinade/n/n9da0ff04e426",
+        "date": "2022-03-17"
+      },
+      {
+        "title": "Wikipedia アンスリューム「楽曲一覧」（ユニット区分・歌唱メンバー）",
+        "url": "https://ja.wikipedia.org/wiki/アンスリューム#楽曲一覧"
+      },
+      {
+        "title": "アンスデーム 公式MV（2019年に公開済み）",
+        "url": "https://www.youtube.com/watch?v=yJAWGPGtfd0",
+        "date": "2019-11-29"
+      }
+    ],
+    "unit": true,
+    "unitMembers": [
+      "黒木いろ",
+      "ちぎら"
+    ],
+    "dateEvidence": {
+      "method": "wiki-performance-order",
+      "source": "https://ja.wikipedia.org/wiki/アンスリューム#楽曲一覧",
+      "reason": "ユーザー指定の披露順に基づく年の推定。前は2019年の「はいどあんどしーく！」、後は2019年に公式MV公開済みの「アンスデーム」。初披露の月日は未確認",
+      "before": {
+        "title": "はいどあんどしーく！",
+        "date": "2019-07-12",
+        "dateKind": "release"
+      },
+      "after": {
+        "title": "アンスデーム",
+        "date": "2019-11-29",
+        "dateKind": "video",
+        "source": "https://www.youtube.com/watch?v=yJAWGPGtfd0"
+      }
+    }
   },
   {
     "id": "s-90655b9eecea978b",
