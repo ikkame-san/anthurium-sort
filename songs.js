@@ -1978,5 +1978,19 @@ export const SONGS = [
         "date": "2020-10-06"
       }
     ]
+  },
+  {
+    "id": "s-d2f59886c01d1eaf",
+    "title": "アイデンティティクライシス",
+    "date": "",
+    "dateKind": "unknown",
+    "release": "音源・公開年未確認",
+    "sources": [
+      {
+        "title": "月埜ヒスイ生誕祭ライブレポート（過去曲として言及）",
+        "url": "https://note.com/tacomarinade/n/n9152d8aa9b77"
+      }
+    ],
+    "catalogNote": "ユーザー指定により収録。過去曲としてライブレポートに言及あり。発売日・初披露日・公式動画は未確認"
   }
 ];
