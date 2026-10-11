@@ -18,7 +18,7 @@ test('every accepted release, video and supplemental candidate points to a catal
 test('unreleased unit years are estimates from performance order, not a later live date',()=>{
  for(const title of ['君夢物語','ときめき死']){
   const s=SONGS.find(s=>s.title===title);
-  assert.equal(s.date,'2019');assert.equal(s.dateKind,'estimated-year');assert.equal(yearLabel(s),'2019（推定）');
+  assert.equal(s.date,'2019');assert.equal(s.dateKind,'estimated-year');assert.equal(yearLabel(s),'2019');
   assert.equal(s.dateEvidence.method,'wiki-performance-order');
   assert.equal(s.dateEvidence.before.date.slice(0,4),'2019');assert.equal(s.dateEvidence.after.date.slice(0,4),'2019');
   assert.ok(s.sources.some(source=>source.date==='2022-03-17'));
