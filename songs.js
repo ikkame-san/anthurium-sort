@@ -412,28 +412,6 @@ export const SONGS = [
     }
   },
   {
-    "id": "s-e0bb08d3f2b7cc81",
-    "title": "ときめき死（月埜ヒスイ ソロver.）",
-    "date": "2024-05-26",
-    "dateKind": "video",
-    "release": "月埜ヒスイ ソロ曲（公式映像）",
-    "solo": true,
-    "soloArtist": "月埜ヒスイ",
-    "sources": [
-      {
-        "title": "【Lyric Video】ときめき死 / 月埜ヒスイ(アンスリューム)",
-        "url": "https://www.youtube.com/watch?v=pSmHHVgpR00",
-        "date": "2024-05-26"
-      }
-    ],
-    "video": {
-      "id": "pSmHHVgpR00",
-      "title": "【Lyric Video】ときめき死 / 月埜ヒスイ(アンスリューム)",
-      "type": "MV",
-      "source": "https://www.youtube.com/watch?v=pSmHHVgpR00"
-    }
-  },
-  {
     "id": "s-b5f2592ebd13a770",
     "title": "Kiss me my Darling",
     "date": "2024-05-02",

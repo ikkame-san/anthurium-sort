@@ -39,12 +39,13 @@ test('supplemental songs survive regeneration and unresolved candidates remain e
 });
 test('solo and unit toggles independently include the intended performances',()=>{
  const base=filterCatalog(SONGS),withSolo=filterCatalog(SONGS,{includeSolo:true}),withUnits=filterCatalog(SONGS,{includeUnits:true}),both=filterCatalog(SONGS,{includeSolo:true,includeUnits:true});
- assert.equal(base.length,66);assert.equal(withSolo.length,76);assert.equal(withUnits.length,68);assert.equal(both.length,78);
+ assert.equal(base.length,66);assert.equal(withSolo.length,75);assert.equal(withUnits.length,68);assert.equal(both.length,77);
  assert.ok(base.every(s=>!s.solo&&!s.unit));
- assert.equal(withSolo.filter(s=>s.solo).length,10);assert.ok(withSolo.every(s=>!s.unit));
+ assert.equal(withSolo.filter(s=>s.solo).length,9);assert.ok(withSolo.every(s=>!s.unit));
  assert.ok(withUnits.every(s=>!s.solo));
  assert.deepEqual(withUnits.filter(s=>s.unit).map(s=>s.title).sort(),['ときめき死','君夢物語'].sort());
- assert.ok(withSolo.some(s=>s.title==='ときめき死（月埜ヒスイ ソロver.）'&&s.solo));
+ assert.ok(SONGS.every(s=>s.title!=='ときめき死（月埜ヒスイ ソロver.）'));
+ assert.ok(audit.videos.some(v=>v.id==='pSmHHVgpR00'&&v.status==='excluded'));
  assert.ok(SONGS.every(s=>!(s.unit&&s.solo)));
  for(const [title,members] of [['君夢物語',['黒木いろ','ちぎら']],['ときめき死',['天神・大天使・閻魔','月埜ヒスイ']]]){
   const s=withUnits.find(s=>s.title===title);assert.deepEqual(s.unitMembers,members);
