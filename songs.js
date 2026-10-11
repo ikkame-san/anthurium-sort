@@ -2214,7 +2214,7 @@ export const SONGS = [
     "title": "アイデンティティクライシス",
     "date": "2019",
     "dateKind": "year",
-    "release": "2019年の楽曲（音源未確認）",
+    "release": "音源未確認",
     "sources": [
       {
         "title": "月埜ヒスイ生誕祭ライブレポート（過去曲として言及）",
@@ -2228,7 +2228,7 @@ export const SONGS = [
     "title": "夢桜",
     "date": "2019",
     "dateKind": "year",
-    "release": "2019年の楽曲（音源未確認）",
+    "release": "音源未確認",
     "sources": [
       {
         "title": "月埜ヒスイ生誕祭ライブレポート M4（披露確認日、初披露日ではない）",
