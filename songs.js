@@ -1088,7 +1088,16 @@ export const SONGS = [
         "title": "3周年記念公演ライブレポート M6（披露確認日）",
         "url": "https://note.com/tacomarinade/n/n9da0ff04e426",
         "date": "2022-03-17"
+      },
+      {
+        "title": "Wikipedia アンスリューム「楽曲一覧」（ユニット区分・歌唱メンバー）",
+        "url": "https://ja.wikipedia.org/wiki/アンスリューム#楽曲一覧"
       }
+    ],
+    "unit": true,
+    "unitMembers": [
+      "天神・大天使・閻魔",
+      "月埜ヒスイ"
     ]
   },
   {
@@ -1102,7 +1111,16 @@ export const SONGS = [
         "title": "3周年記念公演ライブレポート M7（披露確認日）",
         "url": "https://note.com/tacomarinade/n/n9da0ff04e426",
         "date": "2022-03-17"
+      },
+      {
+        "title": "Wikipedia アンスリューム「楽曲一覧」（ユニット区分・歌唱メンバー）",
+        "url": "https://ja.wikipedia.org/wiki/アンスリューム#楽曲一覧"
       }
+    ],
+    "unit": true,
+    "unitMembers": [
+      "黒木いろ",
+      "ちぎら"
     ]
   },
   {

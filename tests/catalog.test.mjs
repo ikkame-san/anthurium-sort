@@ -16,18 +16,27 @@ test('every accepted release, video and supplemental candidate points to a catal
 });
 test('optional tracks start hidden and SE is excluded',()=>{
  assert.ok(filterCatalog(SONGS).every(s=>!variantKind(s)));
- assert.equal(filterCatalog(SONGS,{includeRemixes:true,includeLanguages:true,includeSolo:true}).length,SONGS.length);
+ assert.equal(filterCatalog(SONGS,{includeRemixes:true,includeLanguages:true,includeSolo:true,includeUnits:true}).length,SONGS.length);
  assert.ok(SONGS.every(s=>!/^(SE|Overture|outro)/i.test(s.title)));
 });
 test('supplemental songs survive regeneration and unresolved candidates remain explicit',()=>{
  for(const r of audit.supplements)assert.ok(SONGS.some(s=>s.id===r.songId&&s.title===r.title));
  for(const r of audit.pending){assert.equal(r.status,'review');assert.ok(r.reason&&r.source);assert.ok(!SONGS.some(s=>s.title===r.title));}
 });
-test('solo toggle adds ten original solo tracks without hiding the group unit version',()=>{
- const base=filterCatalog(SONGS),withSolo=filterCatalog(SONGS,{includeSolo:true});
- assert.equal(base.length,68);assert.equal(withSolo.length,78);
- assert.ok(base.every(s=>!s.solo));assert.equal(withSolo.filter(s=>s.solo).length,10);
- assert.ok(base.some(s=>s.title==='ときめき死'));
+test('solo and unit toggles independently include the intended performances',()=>{
+ const base=filterCatalog(SONGS),withSolo=filterCatalog(SONGS,{includeSolo:true}),withUnits=filterCatalog(SONGS,{includeUnits:true}),both=filterCatalog(SONGS,{includeSolo:true,includeUnits:true});
+ assert.equal(base.length,66);assert.equal(withSolo.length,76);assert.equal(withUnits.length,68);assert.equal(both.length,78);
+ assert.ok(base.every(s=>!s.solo&&!s.unit));
+ assert.equal(withSolo.filter(s=>s.solo).length,10);assert.ok(withSolo.every(s=>!s.unit));
+ assert.ok(withUnits.every(s=>!s.solo));
+ assert.deepEqual(withUnits.filter(s=>s.unit).map(s=>s.title).sort(),['ときめき死','君夢物語'].sort());
  assert.ok(withSolo.some(s=>s.title==='ときめき死（月埜ヒスイ ソロver.）'&&s.solo));
- for(const title of ['アイデンティティクライシス','夢桜']){const s=base.find(s=>s.title===title);assert.equal(s.date,'2019');assert.equal(s.dateKind,'year');}
+ assert.ok(SONGS.every(s=>!(s.unit&&s.solo)));
+ for(const [title,members] of [['君夢物語',['黒木いろ','ちぎら']],['ときめき死',['天神・大天使・閻魔','月埜ヒスイ']]]){
+  const s=withUnits.find(s=>s.title===title);assert.deepEqual(s.unitMembers,members);
+  assert.ok(s.sources.some(source=>source.url.startsWith('https://ja.wikipedia.org/')));
+ }
+ // Birthday songs and inherited group songs remain ordinary group entries.
+ for(const title of ['おにぃちゃんス','BLUEROCK','ぺるぺっぽ'])assert.ok(base.some(s=>s.title===title));
+ for(const title of ['アイデンティティクライシス','夢桜']){const s=base.find(s=>s.title===title);assert.equal(s.date,'2019');assert.equal(s.dateKind,'year');assert.equal(s.release,'音源未確認');}
 });

@@ -7,9 +7,10 @@ export function variantKind(song){
   return null;
 }
 
-export function filterCatalog(songs,{includeRemixes=false,includeLanguages=false,includeSolo=false}={}){
+export function filterCatalog(songs,{includeRemixes=false,includeLanguages=false,includeSolo=false,includeUnits=false}={}){
   return songs.filter(song=>{
     if(song.solo&&!includeSolo)return false;
+    if(song.unit&&!includeUnits)return false;
     const kind=variantKind(song);
     return kind==='remix'?includeRemixes:kind==='language'?includeLanguages:true;
   });
